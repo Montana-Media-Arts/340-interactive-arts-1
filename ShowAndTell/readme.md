@@ -29,16 +29,16 @@ Get familiar with your display preferences!!
 
 (NOTE: first-# is number of presentation, second-# is week of presentations.)
 
-- 1/2.	Jeffery Shaw & Myron Kruger (pioneers)
-- 2/3.	United Visual Artist & SOFTLab (installation)
-- 3/4.	Sabrina Raaf & David Rokeby (interactive installations)
-- 4/5.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations) -
-- 5/6.	Camille Utterback & Tangible Interaction (interactive installations) -
-- 6/7.	Electroland & YesYesNo (interactive installations) -
-- 7/10.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun) -
-- 8/11.	Daily tous les Jours (Mouna Andraos) & Random International (playful) -
-- 9/12.	Design I/O & Golan Levin (playful)
-- 10/13.	The Explorartorium & Disney Research (Design for others)
+- 1/2.	Jeffery Shaw & Myron Kruger (pioneers) (Ike)
+- 2/3.	United Visual Artist & SOFTLab (installation) (Forrest)
+- 3/4.	Sabrina Raaf & David Rokeby (interactive installations) (Emily)
+- 4/5.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations) (Daine)
+- 5/6.	Camille Utterback & Tangible Interaction (interactive installations) (Laura)
+- 6/7.	Electroland & YesYesNo (interactive installations) (Chris)
+- 7/10.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun) (Garrett)
+- 8/11.	Daily tous les Jours (Mouna Andraos) & Random International (playful) (Madison)
+- 9/12.	Design I/O & Golan Levin (playful) (Anna)
+- 10/13.	The Explorartorium & Disney Research (Design for others) (Marc)
 
 
 #### Extra Credit or Makeup
