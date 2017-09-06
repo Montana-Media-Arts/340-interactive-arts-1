@@ -17,12 +17,15 @@ Date modified: 2017-09-05
 	- [Grades](#grades)
 		- [Final Grades](#final-grades)
 		- [Assignment Grades](#assignment-grades)
+	- [Attendance](#attendance)
 	- [Plagiarism & Cheating Policy](#plagiarism--cheating-policy)
 	- [Students with Disabilities](#students-with-disabilities)
 	- [Changes to the Course](#changes-to-the-course)
 
 
 # COURSE OVERVIEW
+
+### General
 
 The primary goal for this course is to explore the theory and technique of creating interactive experiences. This may include;
 
@@ -33,6 +36,16 @@ The primary goal for this course is to explore the theory and technique of creat
 - Game design
 
 This course will include a mix of reading, discussion, interactive development, projects, and tests. As this is an intensive course in a developing area, students are expected to be in class and to participate.
+
+### Specific for Fall 2017
+
+What is interactivity? What does it mean to create meaningful interactive experiences? In this hand-on course, students will learn how to create interactive installations and environments. Scale and space will be explored with reference to the body, while creating cybernetic systems for real-time and time-based interaction. Software (p5.js, openCV, Max/MSP/Jitter), electronics and physical computing (Arduino) will be covered in a workshop style format, with the goal of students creating physical projects. A variety of input and output mechanisms (edge detection, tracking, capacitance sensors, presence sensors, custom switches, etc), networking and best practices will be covered in workshops. Class discussions will cover readings about interactive art and design, space, installation. Students are free to explore their own ideas/concepts through the lens of this course.
+
+### Objectives
+
+Students will gain a vocabulary for interactivity and learn a variety of tools and techniques to create interactive installations, including tracking, edge detection, sensors, basic electronics and physical computing. Students will gain knowledge of different methods to create interactive installations including: installations for 1 person, many people, time dependent or input dependent. Students will understand the difference between reactive, interactive and dynamically changing systems.
+
+Students are expected to bring ideas to explore with these techniques. The goals of the projects are not simply about the successful function of the technical process. The goal is to integrate these technical elements to make work that is about something. This could be a problem, phenomena, story, natural element, or other form of expression. This class is about exploring those on a physical scale, such as the body. Projects will create full scale and dynamic installation using both digital and physical means. These projects will be portfolio-level quality works.
 
 
 ## Professor/Instructor
@@ -138,8 +151,13 @@ This course will culminate with final projects. You are expected to push your ab
 
 Grades will be determined according to the following breakdown:
 
--   Projects & Writings -- 80%
--   Participation -- 20%
+- Sketches 30%
+- Show & Tell presentations: 5%
+- In-class discussions (readings & roundtable feedback), critiques: 5%
+- Self-assessments and roundtable presentations: 5%
+- Project 1: Change a Space: 10%
+- Project 2: Midterm: Interactive Installation 20% (5% Prototype, 15% Midterm)
+- Project 3: Final Project: 25% (10% Prototype, 15% Final)
 
 Letters are assigned according to the following final course percentages:
 
@@ -156,7 +174,7 @@ Letters are assigned according to the following final course percentages:
 | D  	| 60-70		|
 | F  	| 0-59		|
 
-#### Assignment Grades
+#### Project Grades
 
 For each project your grade will be assessed upon the following:
 
@@ -186,6 +204,13 @@ Please read examples of each assessment point below to get an idea of my expecta
 	- Unexceptable - D/F - Your work is rushed and looks like it was done on your train-ride in or the night before. Make your work something you are proud of. You are here to build your portfolio after all, aren’t you?
 
 
+## Attendance
+
+- Attendance will be taken at the beginning of every class
+- Critique days are mandatory. No exceptions. No tardiness.
+- Contact me in advance if you will not be in class. (email is preferred)
+- Unexcused absences will affect your grade
+- One absence is allowed; after that, your final overall grade for the course will drop by 2.5 pts out of 100 for each additional absence.
 
 
 ## Plagiarism & Cheating Policy
