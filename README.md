@@ -41,8 +41,8 @@ For this iteration of the course (Fall 2017), we will focus primarily on install
 - Syllabus
 - Required Texts and Supplies
 - Discussion of Technologies and Tools
-- Assign ["Show & Tell"](https://github.com/Montana-Media-Arts/340-fall2017/ShowAndTell/)
-- [Project 1 Launch](https://github.com/Montana-Media-Arts/340-fall2017/Projects/Project_1.md)
+- Assign ["Show & Tell"](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/ShowAndTell/)
+- [Project 1 Launch](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects)
 - Discussion of Week 2
 
 ## Week 2
@@ -52,6 +52,7 @@ For this iteration of the course (Fall 2017), we will focus primarily on install
 In-class:
 
 - First Show and Tell presenter
+- Discussion, "What is an Interactive Experience" 
 - One-on-One discussion/presentations of Project 1 sketches and ideas.
 
 Homework:
