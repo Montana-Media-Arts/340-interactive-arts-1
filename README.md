@@ -66,4 +66,5 @@ Homework:
 
 In-Class (Monday):
 
+- Presentation 2; United Visual Artist & SOFTLab (Forrest)
 - Class discussion of Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.”
