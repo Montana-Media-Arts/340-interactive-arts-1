@@ -68,3 +68,8 @@ In-Class (Monday):
 
 - Presentation 2; United Visual Artist & SOFTLab (Forrest)
 - Class discussion of Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.”
+- project 1 checkins and work with remaining class time. 
+
+In-Class (Wednesday):
+
+- Project 1 presentations and walk-around
