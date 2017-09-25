@@ -30,7 +30,6 @@ For this iteration of the course (Fall 2017), we will focus primarily on install
 - [Syllabus](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Syllabus.md)
 - [Course GitHub Repo](https://github.com/Montana-Media-Arts/340-fall2017)
 - [mart340 Slack Channel](https://um-interactive-media.slack.com)
-    - [Link to Join](https://join.slack.com/t/um-interactive-media/shared_invite/MjM2MTU0NDE4MTc3LTE1MDQ2NTQxMTctYmIxN2M4ZWIzZA)
 
 
 # Weekly Breakdown
@@ -49,17 +48,12 @@ For this iteration of the course (Fall 2017), we will focus primarily on install
 
 (note: Prof. Musick is away part of this week. THERE WILL BE NO CLASS MEETING MONDAY, SEPT. 11th!)
 
-In-class:
+In-Class (Wednesday):
 
 - First Show and Tell presenter
-- Discussion, "What is an Interactive Experience" 
+- Discussion, "What is an Interactive Experience"
 - One-on-One discussion/presentations of Project 1 sketches and ideas.
 
-Homework:
-
-- Read:
-    - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
-    - Note: This should be freely downloadable while you are signed in on the Montana campus.
 
 
 ## Week 3
@@ -67,9 +61,27 @@ Homework:
 In-Class (Monday):
 
 - Presentation 2; United Visual Artist & SOFTLab (Forrest)
-- Class discussion of Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.”
-- project 1 checkins and work with remaining class time. 
+- project 1 checkins and work with remaining class time.
 
 In-Class (Wednesday):
 
 - Project 1 presentations and walk-around
+
+
+## Week 4
+
+In-Class (Monday):
+
+- Presentation 3
+    - Sabrina Raaf & David Rokeby (interactive installations)
+    - Emily
+- Class discussion of Roy Ascott: “The Cybernetic Stance: My Process and Purpose.”
+    - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
+    - Note: This should be freely downloadable while you are signed in on the Montana campus.
+
+
+In-Class (Wednesday):
+
+- Class discussion of "Introduction: Installation Art and Experience" from Claire Bishop: "Installation Art"
+    - Bishop, Claire. _Installation Art_. London, UK: Tate, 2010.
+    - Available from the course slack channel.
