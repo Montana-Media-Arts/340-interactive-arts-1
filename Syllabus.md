@@ -62,7 +62,7 @@ Students are expected to bring ideas to explore with these techniques. The goals
 - [Direct Link to Course Wiki](https://github.com/Montana-Media-Arts/340-fall2017/wiki)
 - [mart340 Slack Channel](https://um-interactive-media.slack.com)
     - Slack is a communication tool used in industry, startups, and art teams. We will be trying it this semester as our primary tool of communication for the class. You are **REQUIRED** to participate in Slack and check it regularly. (I would encourage you to download the Slack app for your computer and mobile devices.)
-    - [Link to Join](https://join.slack.com/t/um-interactive-media/shared_invite/MjM2MTU0NDE4MTc3LTE1MDQ2NTQxMTctYmIxN2M4ZWIzZA)
+    
 
 
 
