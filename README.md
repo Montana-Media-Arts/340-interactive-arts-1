@@ -41,7 +41,7 @@ For this iteration of the course (Fall 2017), we will focus primarily on install
 - Required Texts and Supplies
 - Discussion of Technologies and Tools
 - Assign ["Show & Tell"](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/ShowAndTell/)
-- [Project 1 Launch](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects)
+- [Project 1 Launch](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Project_1/)
 - Discussion of Week 2
 
 ## Week 2
@@ -85,3 +85,150 @@ In-Class (Wednesday):
 - Class discussion of "Introduction: Installation Art and Experience" from Claire Bishop: "Installation Art"
     - Bishop, Claire. _Installation Art_. London, UK: Tate, 2010.
     - Available from the course slack channel.
+
+
+
+## Week 5
+
+In-Class (Monday):
+
+- Presentation 4
+    - Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
+    - Daine
+- Intro to Processing
+- ["Project 2"](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Project_2/) Launch
+
+Do at Home:
+
+- [Watch "Welcome to Processing" w/ Daniel Shiffman](https://vimeo.com/140600280)
+- Download [Processing](https://processing.org)
+
+
+In-Class (Wednesday):
+
+- Class discussion of "Systems Ethetics"
+    - Burnham, Jack. “Systems Esthetics.” Artforum 7.1 (1968): 30–35.
+    - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
+- Class discussion of "Real Time Systems"
+    - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
+    - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
+- More with Processing
+
+
+## Week 6
+
+In-Class (Monday):
+
+- Presentation 5
+    - Camille Utterback & Tangible Interaction (interactive installations)
+    - Laura
+- Class
+    -
+
+
+In-Class (Wednesday):
+
+- Sketch Presentations and Discussion of [Project 2](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Project_2/)
+
+
+## Week 7
+
+In-Class (Monday):
+
+- Presentation 6
+    - Electroland & YesYesNo (interactive installations)
+    - Chris
+- Class
+    -
+
+
+In-Class (Wednesday):
+
+- Class
+
+
+## Week 8
+
+Notes: Prof. Musick in South Korea
+
+In-Class (Monday):
+
+- Presentation 4
+    - Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
+    - Daine
+- Class
+    -
+
+
+In-Class (Wednesday):
+
+- Class
+
+
+## Week 9
+
+Notes: Prof. Musick in South Korea
+
+In-Class (Monday):
+
+- Presentation 4
+    - Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
+    - Daine
+- Class
+    -
+
+
+In-Class (Wednesday):
+
+- Class
+
+
+## Week 10
+
+NOTE: Project 2 presentations during this week.
+
+In-Class (Monday):
+
+- Presentation 7
+    - Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun)
+    - Garrett
+- Class
+    -
+
+
+In-Class (Wednesday):
+
+- Class
+
+
+## Week 11
+
+NOTE: Prof. Musick, documentation of South Korea trip, and "Seoul Sound[e]scapes" Installation.
+
+In-Class (Monday):
+
+- Presentation 4
+    - Daily tous les Jours (Mouna Andraos) & Random International (playful)
+    - Madison
+- Class
+    -
+
+
+In-Class (Wednesday):
+
+- Class
+
+
+
+
+
+
+
+<!--
+
+Project 2 - Monday, November 6th???
+
+Final, technically scheduled for - Thursday, Dec 14; 1:10-3:10
+(same day as expo...)
+
+-->

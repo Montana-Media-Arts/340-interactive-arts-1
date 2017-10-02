@@ -112,3 +112,16 @@ You should include images, sketches, etc, from your collected documentation in y
 ## Video Documentation
 
 We will add information about video documentation for Projects 2 & 3.
+
+
+
+
+# SUBMISSION
+
+To submit your write up; Please e-mail me ([michael.musick@umontana.edu](mailto:michaelmusick@umontana.edu)) your documentation.
+
+You should CC, your partner/s on this e-mail. So that I can see who all was involved.
+
+In your email, you should attach a PDF version of your writeup.
+
+For Projects 2 & 3, you should also provide a link to your video documentation. 
