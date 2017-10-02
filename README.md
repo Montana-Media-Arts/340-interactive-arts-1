@@ -48,7 +48,7 @@ For this iteration of the course (Fall 2017), we will focus primarily on install
 
 (note: Prof. Musick is away part of this week. THERE WILL BE NO CLASS MEETING MONDAY, SEPT. 11th!)
 
-In-Class (Wednesday):
+**In-Class (Wednesday):**
 
 - First Show and Tell presenter
 - Discussion, "What is an Interactive Experience"
@@ -58,19 +58,19 @@ In-Class (Wednesday):
 
 ## Week 3
 
-In-Class (Monday):
+**In-Class (Monday):**
 
 - Presentation 2; United Visual Artist & SOFTLab (Forrest)
 - project 1 checkins and work with remaining class time.
 
-In-Class (Wednesday):
+**In-Class (Wednesday):**
 
 - Project 1 presentations and walk-around
 
 
 ## Week 4
 
-In-Class (Monday):
+**In-Class (Monday):**
 
 - Presentation 3
     - Sabrina Raaf & David Rokeby (interactive installations)
@@ -80,7 +80,7 @@ In-Class (Monday):
     - Note: This should be freely downloadable while you are signed in on the Montana campus.
 
 
-In-Class (Wednesday):
+**In-Class (Wednesday):**
 
 - Class discussion of "Introduction: Installation Art and Experience" from Claire Bishop: "Installation Art"
     - Bishop, Claire. _Installation Art_. London, UK: Tate, 2010.
@@ -90,11 +90,13 @@ In-Class (Wednesday):
 
 ## Week 5
 
-In-Class (Monday):
+**In-Class (Monday):**
 
 - Presentation 4
     - Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
     - Daine
+- Review Project 1, Submissions.
+    - E-mail me per ["Submission Info"](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Documentation_and_Response#submission)
 - Intro to Processing
 - ["Project 2"](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Project_2/) Launch
 
@@ -104,7 +106,7 @@ Do at Home:
 - Download [Processing](https://processing.org)
 
 
-In-Class (Wednesday):
+**In-Class (Wednesday):**
 
 - Class discussion of "Systems Ethetics"
     - Burnham, Jack. “Systems Esthetics.” Artforum 7.1 (1968): 30–35.
@@ -117,7 +119,7 @@ In-Class (Wednesday):
 
 ## Week 6
 
-In-Class (Monday):
+**In-Class (Monday):**
 
 - Presentation 5
     - Camille Utterback & Tangible Interaction (interactive installations)
@@ -126,14 +128,14 @@ In-Class (Monday):
     -
 
 
-In-Class (Wednesday):
+**In-Class (Wednesday):**
 
 - Sketch Presentations and Discussion of [Project 2](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Project_2/)
 
 
 ## Week 7
 
-In-Class (Monday):
+**In-Class (Monday):**
 
 - Presentation 6
     - Electroland & YesYesNo (interactive installations)
@@ -142,7 +144,7 @@ In-Class (Monday):
     -
 
 
-In-Class (Wednesday):
+**In-Class (Wednesday):**
 
 - Class
 
@@ -151,7 +153,7 @@ In-Class (Wednesday):
 
 Notes: Prof. Musick in South Korea
 
-In-Class (Monday):
+**In-Class (Monday):**
 
 - Presentation 4
     - Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
@@ -160,7 +162,7 @@ In-Class (Monday):
     -
 
 
-In-Class (Wednesday):
+**In-Class (Wednesday):**
 
 - Class
 
@@ -169,7 +171,7 @@ In-Class (Wednesday):
 
 Notes: Prof. Musick in South Korea
 
-In-Class (Monday):
+**In-Class (Monday):**
 
 - Presentation 4
     - Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
@@ -178,7 +180,7 @@ In-Class (Monday):
     -
 
 
-In-Class (Wednesday):
+**In-Class (Wednesday):**
 
 - Class
 
@@ -187,7 +189,7 @@ In-Class (Wednesday):
 
 NOTE: Project 2 presentations during this week.
 
-In-Class (Monday):
+**In-Class (Monday):**
 
 - Presentation 7
     - Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun)
@@ -196,7 +198,7 @@ In-Class (Monday):
     -
 
 
-In-Class (Wednesday):
+**In-Class (Wednesday):**
 
 - Class
 
@@ -205,7 +207,7 @@ In-Class (Wednesday):
 
 NOTE: Prof. Musick, documentation of South Korea trip, and "Seoul Sound[e]scapes" Installation.
 
-In-Class (Monday):
+**In-Class (Monday):**
 
 - Presentation 4
     - Daily tous les Jours (Mouna Andraos) & Random International (playful)
@@ -214,7 +216,7 @@ In-Class (Monday):
     -
 
 
-In-Class (Wednesday):
+**In-Class (Wednesday):**
 
 - Class
 
