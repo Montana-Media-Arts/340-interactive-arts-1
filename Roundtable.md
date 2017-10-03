@@ -1,4 +1,4 @@
-###Deliverables for the Roundtable Discussions
+# Deliverables for the Roundtable Discussions
 
 Roundtable discussions will take place the week after the MidTerm Project and the Final Project briefs are released. These are in class discussions regarding your ideas for these projects. It’s an opportunity to bounce ideas off the group in order to get good feedback. This ensures a strong project that meets the minimum project requirements while investigating your conceptual interests.
 
