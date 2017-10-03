@@ -70,7 +70,7 @@ Students are expected to bring ideas to explore with these techniques. The goals
 
 **Time**
 
-You should plan to spend 8-15 hours of work a week on homework and coding outside of class time (in this case, the time it takes you to read/watch the weeks content). **This is a very intense course that will require a significant time commitment on your part.**
+You should plan to spend 3-12 hours of work a week on homework and coding outside of class time. **This is a very intense course that will require a significant time commitment on your part.**
 
 This means you will need excellent time management skills. Schedule time for this course in your week, or you will not be capable of being successful.
 
@@ -91,7 +91,7 @@ This course will heavily utilize collaboration. You will need to work with your 
 
 There are no specific pre-req's for this course. Instead, you are expected to utilize your previous expertise in coding, content creation, story telling, art, sculpture, sound, music, dance, etc. towards the projects presented in the course.
 
-With that being said, it is suggested that you have taken Creative Coding 1 & 2 (MART 120/220).
+With that being said, it is suggested that you have taken Creative Coding 1 & 2 (MART 120/220), as well as Web Development and Web Technologies (MART 341/441).
 
 
 
