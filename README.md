@@ -114,6 +114,8 @@ Do at Home:
 - Class discussion of "Real Time Systems"
     - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
     - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
+- Review Project 2 Groups. 
+- Project 2, Instructions for next Monday & Wednesday.
 - More with Processing
 
 
