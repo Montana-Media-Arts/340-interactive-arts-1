@@ -111,9 +111,6 @@ Do at Home:
 - Class discussion of "Systems Ethetics"
     - Burnham, Jack. “Systems Esthetics.” Artforum 7.1 (1968): 30–35.
     - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
-- Class discussion of "Real Time Systems"
-    - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
-    - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
 - Review Project 2 Groups.
 - Project 2, Instructions for next Monday & Wednesday.
 - More with Processing
@@ -126,8 +123,9 @@ Do at Home:
 - Presentation 5
     - Camille Utterback & Tangible Interaction (interactive installations)
     - Laura
-- Class
-    -
+- Class discussion of "Real Time Systems"
+    - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
+    - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
 
 
 **In-Class (Wednesday):**
@@ -159,7 +157,7 @@ Do at Home:
 - Presentation 7
 
 - Class
-    
+
 
 
 **In-Class (Wednesday):**
