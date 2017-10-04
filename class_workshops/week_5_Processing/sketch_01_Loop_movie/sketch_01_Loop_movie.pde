@@ -13,7 +13,7 @@ void setup() {
   size(640, 360);
   background(0);
   // Load and play the video in a loop
-  movie = new Movie(this, "transit.mov");
+  movie = new Movie(this, "/Users/musick/Desktop/fingers.mov");
   movie.loop();
 }
 
@@ -22,8 +22,6 @@ void movieEvent(Movie m) {
 }
 
 void draw() {
-  //if (movie.available() == true) {
-  //  movie.read(); 
-  //}
+
   image(movie, 0, 0, width, height);
 }
