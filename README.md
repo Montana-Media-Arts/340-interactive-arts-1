@@ -159,7 +159,7 @@ Do at Home:
 - Presentation 7
 
 - Class
-    -
+    
 
 
 **In-Class (Wednesday):**
