@@ -114,7 +114,7 @@ Do at Home:
 - Class discussion of "Real Time Systems"
     - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
     - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
-- Review Project 2 Groups. 
+- Review Project 2 Groups.
 - Project 2, Instructions for next Monday & Wednesday.
 - More with Processing
 
@@ -153,31 +153,28 @@ Do at Home:
 
 ## Week 8
 
-Notes: Prof. Musick in South Korea
 
 **In-Class (Monday):**
 
-- Presentation 4
-    - Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
-    - Daine
+- Presentation 7
+
 - Class
     -
 
 
 **In-Class (Wednesday):**
 
+_Notes: Prof. Musick in South Korea_
+
 - Class
 
 
 ## Week 9
 
-Notes: Prof. Musick in South Korea
+_Notes: Prof. Musick in South Korea_
 
 **In-Class (Monday):**
 
-- Presentation 4
-    - Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
-    - Daine
 - Class
     -
 
