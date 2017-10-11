@@ -140,9 +140,9 @@ Do at Home:
 - Presentation 6
     - Electroland & YesYesNo (interactive installations)
     - Chris
-- Class
-    -
-
+- Class discussion of "The Work of Art in the Age of Mechanical Reproduction"
+    - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” (1936)
+    - [Available from](./resources/articles/Benjamin_1936_WorkOfArt.pdf)
 
 **In-Class (Wednesday):**
 

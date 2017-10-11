@@ -30,6 +30,12 @@ For more on using the Video Library, please read;
 
 ## openCV
 
+_openCV_ stands for [Open Source Computer Vision Library](http://opencv.org/about.html). openCV in Processing is a library, that wraps the functionality of the base openCV library into Processing.
+
+As mentioned from the site...
+
+> OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products
+
 #### Install
 
 To install the openCV library, please follow the same info as above for Video.
