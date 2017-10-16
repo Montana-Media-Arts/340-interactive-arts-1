@@ -143,10 +143,16 @@ Do at Home:
 - Class discussion of "The Work of Art in the Age of Mechanical Reproduction"
     - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” (1936)
     - [Available from](./resources/articles/Benjamin_1936_WorkOfArt.pdf)
+- openCV & Processing
 
 **In-Class (Wednesday):**
 
-- Class
+- Class discussion of "Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers"
+    - Levin, Golan. “Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers.” AI and Society 20.4 (2006): 462–482.
+    - Available from;
+        - [_FLONG._ as a web page](http://www.flong.com/texts/essays/essay_cvad/)
+        - or [as a PDF](./resources/articles/Levin_2006_ComputerVision.pdf)
+- Cont'd exploration of Computer Vision w/ openCV
 
 
 ## Week 8

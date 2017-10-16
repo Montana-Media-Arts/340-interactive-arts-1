@@ -38,4 +38,4 @@ As mentioned from the site...
 
 #### Install
 
-To install the openCV library, please follow the same info as above for Video.
+To install the openCV library, please follow the same info as above for Video. Instead, look for openCV.
