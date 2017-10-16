@@ -144,6 +144,7 @@ Do at Home:
     - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” (1936)
     - [Available from](./resources/articles/Benjamin_1936_WorkOfArt.pdf)
 - openCV & Processing
+    - [Video & openCV - Processing Tutorial Playlist - Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8)
 
 **In-Class (Wednesday):**
 
