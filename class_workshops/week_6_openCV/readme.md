@@ -39,3 +39,11 @@ As mentioned from the site...
 #### Install
 
 To install the openCV library, please follow the same info as above for Video. Instead, look for openCV.
+
+
+
+#### openCV Reference
+
+- [openCV Reference](https://ubaa.net/shared/processing/opencv/index.html)
+
+- [openCV GitHub](https://github.com/atduskgreg/opencv-processing)
