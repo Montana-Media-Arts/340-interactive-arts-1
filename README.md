@@ -210,24 +210,47 @@ NOTE: Project 2 presentations during this week.
 
 ## Week 11
 
-NOTE: Prof. Musick, documentation of South Korea trip, and "Seoul Sound[e]scapes" Installation.
-
 **In-Class (Monday):**
 
-- Presentation 4
+- Presentation 8
     - Daily tous les Jours (Mouna Andraos) & Random International (playful)
     - Madison
-- Class
-    -
+- Quick Discussion of Dr. Musick in S. Korea
+- Status Discussion of Project 2
+    - Issues, problems, & help?
+- Logistics for Tuesday Night Presentation
+- Introductory Discussion to Project 3
 
 
 **In-Class (Wednesday):**
 
-- Class
+- Formal Critique of Project 2
+
+
+## Week 12
+
+**In-Class (Monday):**
+
+- Prof. Musick, documentation of South Korea trip, and "Seoul Sound[e]scapes" Installation.
+- Presentation 9
+    - Design I/O & Golan Levin (playful)
+    - Anna
+- Begin Formal Planning of Project 3
+
+
+**In-Class (Wednesday):**
 
 
 
+## Week 13
 
+**In-Class (Monday):**
+
+- Presentation 10
+    - The Explorartorium & Disney Research (Design for others)
+    - Marc
+
+**In-Class (Wednesday):**
 
 
 
