@@ -212,9 +212,6 @@ NOTE: Project 2 presentations during this week.
 
 **In-Class (Monday):**
 
-- Presentation 8
-    - Daily tous les Jours (Mouna Andraos) & Random International (playful)
-    - Madison
 - Quick Discussion of Dr. Musick in S. Korea
 - Status Discussion of Project 2
     - Issues, problems, & help?
@@ -231,7 +228,7 @@ NOTE: Project 2 presentations during this week.
 
 **In-Class (Monday):**
 
-- Prof. Musick, documentation of South Korea trip, and "Seoul Sound[e]scapes" Installation.
+
 - Presentation 9
     - Design I/O & Golan Levin (playful)
     - Anna
@@ -240,6 +237,7 @@ NOTE: Project 2 presentations during this week.
 
 **In-Class (Wednesday):**
 
+- Please read; [Morse, Margaret. "The Poetics of Interactivity". Women, Art, and Technology. The MIT Press. 2003.](http://www.immersence.com/publications/2003/2003-Mmorse-full.html)
 
 
 ## Week 13
@@ -249,6 +247,7 @@ NOTE: Project 2 presentations during this week.
 - Presentation 10
     - The Explorartorium & Disney Research (Design for others)
     - Marc
+- Prof. Musick, documentation of South Korea trip, and "Seoul Sound[e]scapes" Installation.
 
 **In-Class (Wednesday):**
 
