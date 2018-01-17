@@ -7,18 +7,17 @@ Date modified: 2017-09-05
 **Table of Contents**
 
 - [Course Overview](#course-overview)
+	- [Description](#description)
+	- [Objectives](#objectives)
 	- [Professor/Instructor](#professorinstructor)
 	- [Course Websites](#course-websites)
-	- [Course Requirements](#course-requirements)
-	- [Pre-Requisite Knowledge, Experience, & Technology](#pre-requisite-knowledge-experience--technology)
-	- [Books & Supplies](#books--supplies)
+	- [Pre-Requisites](#pre-requisites)
+	- [Books and Supplies](#books-and-supplies)
 - [Policies](#policies)
 	- [Course Evaluation](#course-evaluation)
 	- [Grades](#grades)
-		- [Final Grades](#final-grades)
-		- [Assignment Grades](#assignment-grades)
 	- [Attendance](#attendance)
-	- [Plagiarism & Cheating Policy](#plagiarism--cheating-policy)
+	- [Plagiarism and Cheating Policy](#plagiarism-and-cheating-policy)
 	- [Students with Disabilities](#students-with-disabilities)
 	- [Changes to the Course](#changes-to-the-course)
 
