@@ -1,22 +1,22 @@
 # Project Response and Documentation Guidelines
 
-In addition to the actual devising, creation, build, and presentation of each project, you also need create documentation of your project along with a project paper.
+In addition to the actual devising, composition, creation, build, and presentation of each project, you are also required to submit project documentation. This is in the form of a demo video and write-up with images.
 
-This serves a number of purposes.
+This serves a number of purposes;
 
 1. This encourages you to capture/document your project throughout the entire process.
 2. This allows you the opportunity to create a set of deliverables that could be shared with others interested in your work (colleagues, peers, critics, galleries, etc.).
-3. This process will require to reflect upon your work throughout the process, and at the end. This reflection will lead to individual and group insights, that will inevitably feedback into future iterations or projects.
+3. This requires you to reflect upon your work throughout the process, and at the end. This reflection will lead to individual and group insights, that will inevitably feedback into future iterations or projects.
 4. It is critical that you learn how to discuss and present your work through written documents and videos. As you will be asked to do this constantly as a professional artist or creative.
 
 
 ## Collecting Documentation
 
-Throughout the entire devising, development, iteration, build, and presentation processes you should document your project and work. This will necessarily compromise multiple forms, including, but not limited to;
+Throughout the entire devising, composition, development, iteration, build, and presentation processes you should document the project and work. This will necessarily compromise multiple forms, including, but not limited to;
 
 - images/photos
-- sketches
-- mocke-ups
+- sketches/[story-boards](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Storyboard_Templates/)
+- mock-ups
 - mind-maps
 - progress reflections
 - artistic/aesthetic reflections
@@ -24,9 +24,10 @@ Throughout the entire devising, development, iteration, build, and presentation 
 - code snippets
 - commit messages
 - videos
-- related work, artists, projects
+- related work, artists, projects (literature review)
 
-You should collect all of the above and more throughout each projects life cycle. This will allow you to discuss your work more fully at the time of presentation, and in the subsequent video/paper documentation.
+You should collect all of the above and more, throughout each project's life cycle. This will allow you to discuss your work thoroughly at the time of presentation, and in the subsequent video/paper documentation.
+
 
 ### Team Work
 
@@ -34,6 +35,7 @@ For collaborative projects, you should identify, at the start of the project, ho
 
 - GitHub Repo
 - Dropbox/Google Drive/Box directory
+- Separate Slack conversation
 - wordpress or medium site/account
 
 
@@ -43,7 +45,7 @@ One of the required outputs for each project will be a Reflection and Technical 
 
 This paper should be written utilizing the provided course paper template, available from this directory.
 
-- [Direct download for "Musick_Paper_Template.doc"](https://github.com/Montana-Media-Arts/340-fall2017/raw/master/Documentation_and_Response/Musick_Paper_Template.doc)
+- [Direct download for "Musick_Paper_Template.doc"](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Documentation_and_Response/Musick_Paper_Template.doc)
 
 <br>
 
@@ -105,14 +107,17 @@ Please include any references here, formatted according to IEEE guidelines, as s
 
 #### Images and Such
 
-You should include images, sketches, etc, from your collected documentation in your paper. These resources should be referenced in the text of the paper. Use the documentation you collected to drive the paper itself.
+You should include images, sketches, etc., from your collected documentation in your paper. These resources should be referenced in the text of the paper. Use the documentation you collected to drive the paper itself.
 
 
 
 ## Video Documentation
 
-We will add information about video documentation for Projects 2 & 3.
+Video documentation should offer viewers a complete sense of your project without ever having experienced it in person. This means that it should include video of the project during presentations, as well descriptive elements, such as voice-overs, build/process shots, or artistic goals.
 
+You should take care to capture audio through high-fidelity means. This may require a multi-channel recording of the project with multiple microphones, as well as D/I feeds. Where appropriate, this may need to be synced with video documentation. Video documentation may also be best captured using multiple cameras.
+
+These multiple captures of the piece, during presentation and throughout the development process, should be edited in post, with software such as Final Cut X or Adobe Premiere.
 
 
 
@@ -122,6 +127,4 @@ To submit your write up; Please e-mail me ([michael.musick@umontana.edu](mailto:
 
 You should CC, your partner/s on this e-mail. So that I can see who all was involved.
 
-In your email, you should attach a PDF version of your writeup.
-
-For Projects 2 & 3, you should also provide a link to your video documentation. 
+In your email, you should attach a PDF version of your write-up, along with a link to video hosting site (i.e. YouTube or Vimeo) or dedicated webpage with embedded video.
