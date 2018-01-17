@@ -1,6 +1,6 @@
 
 
-# Syllabus | Interactive Media 1, MART 340
+# Syllabus | Interactive Media 1; Installation & Immersive Environments (MART 340)
 
 Date modified: 2017-09-05
 
