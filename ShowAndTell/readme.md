@@ -3,7 +3,7 @@
 
 ## Description
 
-In the first week, you will either volunteer or be assigned to 2 people from the list below. On the assigned date, bring in 2-3 examples each person/group’s of their work. Each date has at least 2 people/groups. Be familiar with a brief bio and be prepared to critically discuss/analyze the assigned individual and their supporting work in a dynamic presentation in front of the class. Do not be lame. Be informed.
+In the first week, you will either volunteer or be assigned 2 people from the list below. On the assigned date, bring in 2-3 examples of each person/group’s work. Each date has at least 2 people/groups. Be familiar with a brief bio and be prepared to critically discuss/analyze the assigned individual and their supporting work in a dynamic presentation in front of the class. You are required to be informed and will be asked questions by the group.
 
 In addition to Googling the people/projects, I encourage you to check out [Eyeo’s website](http://eyeofestival.com) and [Vimeo page](https://vimeo.com/eyeofestival), as well as [Creative Applications](http://www.creativeapplications.net) site.
 
