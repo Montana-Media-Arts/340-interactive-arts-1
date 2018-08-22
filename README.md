@@ -3,7 +3,7 @@
 
 ## Professor/Instructor
 
-- [Professor Michael Musick](http://michaelmusick.com)
+- [Dr. Michael Musick](http://michaelmusick.com)
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
 - Office: McGill Hall, 232.
 

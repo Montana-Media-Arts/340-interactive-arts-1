@@ -57,7 +57,7 @@ This course will conclude with an intensive collective installation project. The
 
 ## Professor/Instructor
 
-- [Professor Michael Musick](http://michaelmusick.com)
+- [Dr. Michael Musick](http://michaelmusick.com)
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
 - Office: McGill Hall, 232.
 
