@@ -1,4 +1,4 @@
-# Interactive Media 1; Installation & Immersive Environments (MART 340)  |  Fall 2017
+# Interactive Media 1; Installation & Immersive Environments (MART 340)  |  Fall 2018
 
 
 ## Professor/Instructor
