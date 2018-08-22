@@ -35,6 +35,10 @@ This course will include a mix of reading, discussion, interactive development, 
 - Required Texts and Supplies
 - Discussion of Technologies and Tools
 - Assign ["Show & Tell"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/ShowAndTell/)
+- Extra Meetings
+    - Project 2 Showing - Monday, October 15th. 3pm-9pm
+    - Project 3 Showing - Monday, December 3rd. From 3pm-9pm
+    - Final Meeting (Monday, Dec. 10th; 1:10pm - 3:10pm)
 - [Project 1 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_1/)
 - Class discussion;
     1. What does interactive mean?
@@ -253,7 +257,7 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 
 **_Monday, October 15th_**
 
-*Class will not be held in the morning, instead we will meet in the afternoon/evening from 4-9pm.*
+*Class will not be held, instead we will meet in the afternoon/evening from 4-9pm.*
 
 **Project 2 Installation Presentations**
 
@@ -361,26 +365,25 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 
 ## Week 12
 
-**In-Class (Monday):**
+_Odd long week_
 
+**( No class Monday for Veterans Day )**
+
+
+**In-Class (Wednesday):**
 
 - Project 3 check-ins
     - update from PM/Musick on external material procurement
     - identification of potential problems
         - group discussion on potential solutions
 - Advertisement and Awareness
-    - Create strategy to get participants to installation on Day 17
+    - Create strategy to get participants to installation
+- Class discussion of interactivity and ethics:
+    - Please read:
+        - Ritter, Don. “The Ethics of Aesthetics.” Transdisciplinary Digital Art. Ed. R. Adams, S. Gibson, and S. Muller. Berlin: Springer-Verlag, 2008. 5–14.
+        - Mercedes, J Dawn. “The Application of Feminist Aesthetic Theory to Computer-Mediated Art.” Studies in Art Education 40.1 (1998): 66–79.
+        - Gigliotti, Carol. “Aesthetics of a Virtual World.” Leonardo 28.4 (1995): 289–295. Web. 9 Jan. 2014.
 - Work on Project 3
-
-
-**( No class Wednesday for Thanksgiving )**
-
-**TODO:**
-
-- Work on individual components while away.
-
-
-## Week 13
 
 **In-Class (Monday):**
 
@@ -388,22 +391,22 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 - Project 3 check-ins
     - identification of potential problems
         - group discussion on potential solutions
+- Project 3 Documentation
+    - Discuss documentation requirements for Project 3
+    - Assign duties
+    - Set deadlines
+    - Create documentation capture plan for showing
+
+
+**( No class Wednesday for Thanksgiving )**
 
 **TODO:**
 
+- Work on individual components while away.
 - Read for next class
 
 
-**In-Class (Wednesday):**
-
-- Class discussion of interactivity and ethics:
-    - Please read:
-        - Ritter, Don. “The Ethics of Aesthetics.” Transdisciplinary Digital Art. Ed. R. Adams, S. Gibson, and S. Muller. Berlin: Springer-Verlag, 2008. 5–14.
-        - Mercedes, J Dawn. “The Application of Feminist Aesthetic Theory to Computer-Mediated Art.” Studies in Art Education 40.1 (1998): 66–79.
-        - Gigliotti, Carol. “Aesthetics of a Virtual World.” Leonardo 28.4 (1995): 289–295. Web. 9 Jan. 2014.
-
-
-## Week 14
+## Week 13
 
 **In-Class (Monday):**
 
@@ -411,22 +414,18 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 - Project 3 check-ins
     - identification of potential problems
     - group discussion on potential solutions
-- Project 3 Documentation
-    - Discuss documentation requirements for Project 3
-    - Assign duties
-    - Set deadlines
-    - Create documentation capture plan for showing
+- Work on Project 3
+    - Discuss install for next week
+    - Assign "watch" duties during showing
 
 **TODO:**
 
-- Begin gathering documentation materials
 
 
 **In-Class (Wednesday):**
 
 - Work on Project 3
-    - Discuss install for next week
-    - Assign "watch" duties during showing
+    - Prep for the Install!
 
 **TODO:**
 
@@ -434,31 +433,44 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 - Begin work on documentation
 
 
-## Week 15 (Last Class and Public Showing)
+
+## Week 14 (PUBLIC SHOWING)
 
 **In-Class (Monday):**
+
+_This work MAY need to happen during the weekend!_
 
 - Install the work in the space.
 - Test art work for potential technical failures.
     - Address and fix any potential technical failures.
 - Gather documentation audio/video using high-quality capture devices
 
-**Due:**
+**_Public Showing at Night from 5-9pm. Attendance is Mandatory_**
 
-- Project 3 Installation
 
 **TODO:**
 
 - Work on Documentation
 
-**Media Arts Expo (Thursday, Dec. 14th):**
 
-- Open installation for entire day (10am - 9pm)
 
-**Final Meeting (Friday, Dec. 15th):**
+**In-Class (Wednesday):**
 
-- Class critique in space
+- Class critique. Ideally in space
 - Strike installation
+- Documentation by class.
+
+
+**TODO:**
+
+
+
+
+## Finals Week (Last Class)
+
+
+**Final Meeting (Monday, Dec. 10th; 1:10pm - 3:10pm):**
+
 - Submission of documentation
 - Watch documentation video
 - Final comments
@@ -466,6 +478,16 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 **Due:**
 
 - Project 3 Documentation
+
+
+<!-- **In-Class (Monday):** -->
+
+<!-- **TODO:** -->
+
+
+
+<!-- - Open installation for entire day (10am - 9pm) -->
+
 
 <!--
 
