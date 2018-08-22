@@ -15,7 +15,7 @@ This serves a number of purposes;
 Throughout the entire devising, composition, development, iteration, build, and presentation processes you should document the project and work. This will necessarily compromise multiple forms, including, but not limited to;
 
 - images/photos
-- sketches/[story-boards](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Storyboard_Templates/)
+- sketches/[story-boards](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Storyboard_Templates/)
 - mock-ups
 - mind-maps
 - progress reflections
@@ -45,7 +45,7 @@ One of the required outputs for each project will be a Reflection and Technical 
 
 This paper should be written utilizing the provided course paper template, available from this directory.
 
-- [Direct download for "Musick_Paper_Template.doc"](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Documentation_and_Response/Musick_Paper_Template.doc)
+- [Direct download for "Musick_Paper_Template.doc"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Documentation_and_Response/Musick_Paper_Template.doc)
 
 <br>
 

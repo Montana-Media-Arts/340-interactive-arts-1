@@ -9,6 +9,6 @@ You must have 3 separate/different ideas for EACH roundtable. For each idea pres
 
 - Describe the concept in 3 brief sentences
 - Show links to 3 other similar works or influences – both technical and conceptual
-- [Use the storyboard template provided](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Storyboard_Templates/) to describe what the experience is like over time. What does it look like initially? What is the space like? How would I interact with it? How would it react to me? What would that reaction look like? Show the timeline of interactivity: when no one is around, when one person is around, when a group of people are around, when it turns on, when it turns off, how it turns on and off, etc, etc.
+- [Use the storyboard template provided](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Storyboard_Templates/) to describe what the experience is like over time. What does it look like initially? What is the space like? How would I interact with it? How would it react to me? What would that reaction look like? Show the timeline of interactivity: when no one is around, when one person is around, when a group of people are around, when it turns on, when it turns off, how it turns on and off, etc, etc.
 - What space would this use on campus?
 - For the Final Project only: What is the interface?

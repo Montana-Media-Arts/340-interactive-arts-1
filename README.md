@@ -19,8 +19,8 @@ This course will include a mix of reading, discussion, interactive development, 
 
 ## Links
 
-- [Syllabus](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Syllabus.md)
-- [Course GitHub Repo](https://github.com/Montana-Media-Arts/340-fall2017)
+- [Syllabus](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Syllabus.md)
+- [Course GitHub Repo](https://github.com/Montana-Media-Arts/340-interactive-arts-1)
 - [mart340 Slack Channel](https://um-interactive-media.slack.com)
 
 
@@ -28,33 +28,58 @@ This course will include a mix of reading, discussion, interactive development, 
 
 ## Week 1
 
+**Monday**
+
 - Course Overview
 - Syllabus
 - Required Texts and Supplies
 - Discussion of Technologies and Tools
-- Assign ["Show & Tell"](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/ShowAndTell/)
-- [Project 1 Launch](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Project_1/)
+- Assign ["Show & Tell"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/ShowAndTell/)
+- [Project 1 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_1/)
 - Class discussion;
     1. What does interactive mean?
     2. What is Installation Art?
-- Discussion of Week 2
 
-**TODO:**
+**Wednesday**
 
-- Reading for Week 2.
-- Project 1 sketches with partner for Week 2.
-
-
-
-## Week 2
-
+<!-- This would normally be in week 2 -->
 - Discussion, "What is an Interactive Experience"
 	- Please read:
 		- Saltz, David Z. 1997. “The Art of Interaction: Interactivity, Performativity, and Computers.” Journal of Aesthetics and Art Criticism 55 (2): 117–27. doi:10.2307/431258.
 			- [http://www.embodiedimmersion.com/wp-content/uploads/2013/01/Art+of+interaction.pdf](http://www.embodiedimmersion.com/wp-content/uploads/2013/01/Art+of+interaction.pdf)
 		- Edmonds, Ernest. 2010. “The Art of Interaction.” Digital Creativity 21 (4): 257–64. doi:10.1080/14626268.2010.556347.
 			- [http://userpages.umbc.edu/~skane/classes/is760/fall2011/papers/Edmonds2010.pdf](http://userpages.umbc.edu/~skane/classes/is760/fall2011/papers/Edmonds2010.pdf)
+- Discussion of Week 2
+
+**TODO:**
+
+- Reading.
+- Project 1 sketches with partner for Week 2.
+
+
+
+## Week 2
+
+_No Class on Monday, Sept. 3rd for Labor Day_
+
+<!--
+- Discussion, "What is an Interactive Experience"
+	- Please read:
+		- Saltz, David Z. 1997. “The Art of Interaction: Interactivity, Performativity, and Computers.” Journal of Aesthetics and Art Criticism 55 (2): 117–27. doi:10.2307/431258.
+			- [http://www.embodiedimmersion.com/wp-content/uploads/2013/01/Art+of+interaction.pdf](http://www.embodiedimmersion.com/wp-content/uploads/2013/01/Art+of+interaction.pdf)
+		- Edmonds, Ernest. 2010. “The Art of Interaction.” Digital Creativity 21 (4): 257–64. doi:10.1080/14626268.2010.556347.
+			- [http://userpages.umbc.edu/~skane/classes/is760/fall2011/papers/Edmonds2010.pdf](http://userpages.umbc.edu/~skane/classes/is760/fall2011/papers/Edmonds2010.pdf)
+-->
+
+**Wednesday**
+
 - Discussion & presentation of Project 1 sketches.
+- Class discussion of _Installation Art_
+    - Please read:
+        - "Introduction: Installation Art and Experience" from,
+            - Bishop, Claire. _Installation Art_. London, UK: Tate, 2010.
+        - Available from the course slack channel.
+- Documenting Installation Art, Interactive Art, and Sound Art.
 - Show & Tell - Presentation 1; Jeffery Shaw & Myron Kruger (pioneers)
 
 **Due:**
@@ -63,23 +88,20 @@ This course will include a mix of reading, discussion, interactive development, 
 
 **TODO:**
 
-- Reading for Week 3.
+- Reading.
 
 
 
 ## Week 3
 
-**In-Class (Monday):**
+<!-- **In-Class (Monday):** -->
 
-- Class discussion of _Installation Art_
-    - Please read:
-        - "Introduction: Installation Art and Experience" from,
-            - Bishop, Claire. _Installation Art_. London, UK: Tate, 2010.
-        - Available from the course slack channel.
-- Lecture on General Topics and Specific Examples of Installation Art
-- Documenting Installation Art, Interactive Art, and Sound Art.
-- Show & Tell - Presentation 2; United Visual Artist & SOFTLab
-- Project 1 individual check-ins and work with remaining class time.
+<!-- - Lecture on General Topics and Specific Examples of Installation Art -->
+<!-- - Project 1 group check-ins and work with remaining class time. -->
+
+**Monday: No Professor in Class. Dr. Musick will be away**
+
+- Project 1 group check-ins and work with remaining class time.
 
 **In-Class (Wednesday):**
 
@@ -106,13 +128,14 @@ This course will include a mix of reading, discussion, interactive development, 
             - Available from the class Slack channel
         - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013.
             - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
-- Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
+- Show & Tell - Presentation 2; United Visual Artist & SOFTLab
 - Review Project 1, Submissions.
-    - E-mail me per ["Submission Info"](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Documentation_and_Response#submission)
-- [Project 2 Launch](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Project_2/)
+    - E-mail me per ["Submission Info"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Documentation_and_Response#submission)
+- [Project 2 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_2/)
 
 **In-Class (Wednesday):**
 
+- Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
 - Watch Project 1 Demo Videos
     - Discuss success, quality, & future approaches.
     - What types of things "worked"?
@@ -228,6 +251,8 @@ This course will include a mix of reading, discussion, interactive development, 
 
 **In-Class (Monday):**
 
+**_Monday, October 15th_**
+
 *Class will not be held in the morning, instead we will meet in the afternoon/evening from 4-9pm.*
 
 **Project 2 Installation Presentations**
@@ -254,7 +279,7 @@ This course will include a mix of reading, discussion, interactive development, 
 - Watch Project 2 Demo Videos
     - Discussion of documentation
 - Show & Tell - Presentation 7; Tristan Perich & Janet Cardiff (sound art & installation)
-- [Project 3 Launch](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Project_3/)
+- [Project 3 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_3/)
 - Class brainstorming about Project 3.
 
 **TODO:**
@@ -281,7 +306,7 @@ This course will include a mix of reading, discussion, interactive development, 
 
 **In-Class (Monday):**
 
-- Sketch presentations and discussions of [Project 3](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Project_3/)
+- Sketch presentations and discussions of [Project 3](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_3/)
 - Coalesce Idea for Project 3
 - Show & Tell - Presentation 8; Luke DuBois & Niklas Roy (visuals, systems, games, fun)
 

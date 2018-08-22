@@ -27,7 +27,7 @@ A written post, either online, or in another environment that can be shared digi
 
 - Concept map/Word map of concepts and ideas that you are interested in exploring
 - 3-7 different artists, designers, projects, theorists, writers, musicans, poets, or pieces that are similar or are serving as inspiration.
-- You could use a [storyboard template](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Projects/Storyboard_Templates) to sketch out what would happen over time in your piece. What changes? What causes those changes? (highly encouraged)
+- You could use a [storyboard template](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Storyboard_Templates) to sketch out what would happen over time in your piece. What changes? What causes those changes? (highly encouraged)
 - What are the inputs and outputs to the piece?
 - What spaces are you thinking of using?
 - What will the media be in your piece? Collect it now!

@@ -2,7 +2,7 @@
 
 # Syllabus | Interactive Media 1; Installation & Immersive Environments (MART 340)
 
-Date modified: 2017-09-05
+Date modified: 2018-08-22
 
 **Table of Contents**
 
@@ -65,8 +65,8 @@ This course will conclude with an intensive collective installation project. The
 
 ## Course Websites
 
-- [Course GitHub Repo](https://github.com/Montana-Media-Arts/340-fall2017) (This git repository holds code examples, an issues board, as well as course Wiki.)
-- [Direct Link to Course Wiki](https://github.com/Montana-Media-Arts/340-fall2017/wiki)
+- [Course GitHub Repo](https://github.com/Montana-Media-Arts/340-interactive-arts-1) (This git repository holds code examples, an issues board, as well as course Wiki.)
+- [Direct Link to Course Wiki](https://github.com/Montana-Media-Arts/340-interactive-arts-1/wiki)
 - [mart340 Slack Channel](https://um-interactive-media.slack.com)
     - Slack is a communication tool used in industry, startups, and art teams. We will use this as our primary tool of communication for the class. You are **REQUIRED** to participate in Slack and check it regularly. (I would encourage you to download the Slack app for your computer and mobile devices.)
 
