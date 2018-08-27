@@ -6,7 +6,9 @@
 - [Dr. Michael Musick](http://michaelmusick.com)
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
 - Office: McGill Hall, 232.
-
+- Office Hours:
+    - Wednesdays: 12:00pm - 1:00pm
+    - Thursdays: 11:30am - 1:30pm
 
 ## COURSE OVERVIEW
 
