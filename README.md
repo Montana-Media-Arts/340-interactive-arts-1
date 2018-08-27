@@ -105,7 +105,9 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 <!-- - Lecture on General Topics and Specific Examples of Installation Art -->
 <!-- - Project 1 group check-ins and work with remaining class time. -->
 
-**Monday: No Professor in Class. Dr. Musick will be away**
+**Monday: Dr. Musick will be away**
+
+- Kurtis, gets to teach Isadora.
 
 - Project 1 group check-ins and work with remaining class time.
 
