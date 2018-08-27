@@ -3,9 +3,9 @@
 10% of your Final Grade
 
 
-- **In-class critique: _Week 3; Wednesday, September 20th_**
-- Sketch reviews: _Week 2; Wednesday, September 13th_
-- Documentation due: _Week 4; Wednesday, September 27th_
+- **In-class critique: _Week 3; Wednesday, September 19th_**
+- Sketch reviews: _Week 2; Wednesday, September 12th_
+- Documentation due: _Week 4; Wednesday, September 26th_
 
 
 

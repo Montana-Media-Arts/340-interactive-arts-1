@@ -41,7 +41,6 @@ This course will include a mix of reading, discussion, interactive development, 
     - Project 2 Showing - Monday, October 15th. 3pm-9pm
     - Project 3 Showing - Monday, December 3rd. From 3pm-9pm
     - Final Meeting (Monday, Dec. 10th; 1:10pm - 3:10pm)
-- [Project 1 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_1/)
 - Class discussion;
     1. What does interactive mean?
     2. What is Installation Art?
@@ -55,6 +54,7 @@ This course will include a mix of reading, discussion, interactive development, 
 			- [http://www.embodiedimmersion.com/wp-content/uploads/2013/01/Art+of+interaction.pdf](http://www.embodiedimmersion.com/wp-content/uploads/2013/01/Art+of+interaction.pdf)
 		- Edmonds, Ernest. 2010. “The Art of Interaction.” Digital Creativity 21 (4): 257–64. doi:10.1080/14626268.2010.556347.
 			- [http://userpages.umbc.edu/~skane/classes/is760/fall2011/papers/Edmonds2010.pdf](http://userpages.umbc.edu/~skane/classes/is760/fall2011/papers/Edmonds2010.pdf)
+- [Project 1 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_1/)
 - Discussion of Week 2
 
 **TODO:**
