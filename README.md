@@ -138,7 +138,7 @@ _No Class on Monday, Sept. 3rd for Labor Day_
             - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
 - Show & Tell - Presentation 2; United Visual Artist & SOFTLab
 - Review Project 1, Submissions.
-    - E-mail me per ["Submission Info"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Documentation_and_Response#submission)
+    - E-mail me per ["Submission Info"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Documentation_and_Response#submission)
 - [Project 2 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_2/)
 
 **In-Class (Wednesday):**
