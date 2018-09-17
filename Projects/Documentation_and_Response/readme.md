@@ -123,8 +123,6 @@ These multiple captures of the piece, during presentation and throughout the dev
 
 # SUBMISSION
 
-To submit your write up; Please e-mail me ([michael.musick@umontana.edu](mailto:michaelmusick@umontana.edu)) your documentation.
+To submit your write up; Please submit it to the appropriate Moodle Assignment Submission. 
 
-You should CC, your partner/s on this e-mail. So that I can see who all was involved.
-
-In your email, you should attach a PDF version of your write-up, along with a link to video hosting site (i.e. YouTube or Vimeo) or dedicated webpage with embedded video.
+You should attach a PDF version of your write-up, along with a link to video hosting site (i.e. YouTube or Vimeo) or dedicated webpage with embedded video.
