@@ -155,9 +155,7 @@ _No Class on Monday, Sept. 3rd for Labor Day_
     - tactile transducers
     - speaker sculptures
 
-**Due:**
 
-- Project 1 Documentation
 
 **TODO:**
 
@@ -168,33 +166,35 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 ## Week 5
 
 **In-Class (Monday):**
+- Class discussion of _Cybernetics_ and _Systems Art_
+    - Please read:
+        - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
+            - Note: This should be freely downloadable while you are signed in to the library or on campus.
 
+
+**Due:**
+
+- Project 1 Documentation
+
+**In-Class (Wednesday):**
+
+
+- Show & Tell - Presentation 4; Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
+- Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
 - Intro to Processing
 
 **TODO:**
 
 - [Watch "Welcome to Processing" w/ Daniel Shiffman](https://vimeo.com/140600280)
 - Download [Processing](https://processing.org)
-
-
-**In-Class (Wednesday):**
-
-- Class discussion of _Cybernetics_ and _Systems Art_
-    - Please read:
-        - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
-            - Note: This should be freely downloadable while you are signed in to the library or on campus.
-- Show & Tell - Presentation 4; Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
-- Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
-- More with Processing
+- Work on Project 2.
+- Read for Week 6
 
 **Due:**
 
 - Project 2 Sketches
 
-**TODO:**
 
-- Work on Project 2.
-- Read for Week 6
 
 
 ## Week 6
