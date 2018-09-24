@@ -179,7 +179,7 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 **In-Class (Wednesday):**
 
 
-- Show & Tell - Presentation 4; Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
+
 - Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
 - Intro to Processing
 
@@ -208,6 +208,7 @@ _No Class on Monday, Sept. 3rd for Labor Day_
             - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
         - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
             - [Available on Monoskop](https://monoskop.org/images/b/bb/Burnham_Jack_1969_Real_Time_Systems.pdf)
+- Show & Tell - Presentation 4; Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
 - Show & Tell - Presentation 5; Camille Utterback & Tangible Interaction (interactive installations)
 
 
