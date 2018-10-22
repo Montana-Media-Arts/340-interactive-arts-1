@@ -7,7 +7,7 @@
 3.	Sabrina Raaf & David Rokeby (interactive installations)
     - Chris Warchesik
 4.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
-    - Hannah Dishman
+    - Constance & Conner
 5.	Camille Utterback & Tangible Interaction (interactive installations)
     - Jack Lawless
 6.	Electroland & YesYesNo (interactive installations)
