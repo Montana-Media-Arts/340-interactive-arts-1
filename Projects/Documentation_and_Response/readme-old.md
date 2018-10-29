@@ -43,64 +43,39 @@ For collaborative projects, you should identify, at the start of the project, ho
 
 One of the required outputs for each project will be a Reflection and Technical Report Paper.
 
-<!-- This paper should be written utilizing the provided course paper template, available from this directory. -->
-For the time being, you may write this paper in any format you desire. Please maintain consistency and make it look nice.
-
-You are also welcome to use either IEEE or MLA style citations in your paper. Please choose one or the other.
-
-If you would like to use a template, you are welcome to use the template in this git repository.
+This paper should be written utilizing the provided course paper template, available from this directory.
 
 - [Direct download for "Musick_Paper_Template.doc"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Documentation_and_Response/Musick_Paper_Template.doc)
 
 <br>
 
-The paper is where you should discuss your project, in detail, with respect to;
+This paper is where you should discuss your project, in detail, with respect to;
 
 - aesthetics
 - conception
 - reception
 - technical information
 
-Roughly speaking, this paper should be laid out in the following way;
+Roughly speaking, this paper might be laid out in the following way;
 
-<!--
 **Abstract**
 
 A brief description of the project (150-200 words)
- -->
 
 **1. Introduction**
 
 Please present the project in broad strokes, as well as what will be discussed in the paper.
 
-
 **2. Related Work**
 
 This section should describe related work by other artists, scientists, or engineers. This work should be discussed in terms of;
 
-- What works are similar to your work?
-- How do these works differ from your work?
-    - Or, how does your work differ from these works.
-- How did (if applicable) these works influence your work?
-
-
+- how it differs from your project,
+- how it influenced your project,
 
 **3. Detailed Project Description**
 
 Please describe your project in detail. This is a chance for you to discuss why you did what you did artistically, and what is novel about your project.
-
-You may want to answer the following types of questions:
-
-- What did I/we do?
-    - What is the project about?
-    - Describe this project?
-- What are the aesthetic goals of this work?
-- What are the theoretical goals for this work?
-- What does this work do?
-    - How does this work do that?
-
-> NOTE: How does this section differ from the following four sections? This is a section describing the artistic work, at a high level. Not how did you get there, but what is it. The next sections will talk about how the project got there. 
-
 
 **4. Artistic Development**
 
@@ -108,75 +83,27 @@ Please discuss the development of artistic ideas, how you teased out the final p
 
 This may be the section in which you discuss your project with respect to the _Project Specific Goals or Ideas_ being explore.
 
-- What were your artistic ideas?
-- How did you implement your artistic ideas?
-- Did you artistic ideas change?
-    - If so, was this due to;
-        - technical necessity?
-        - or the realization that the work would be stronger if...?
-
-
 **5. Technical Details and Work**
 
 What technical challenges did you face? How did you solve these challenges. Discuss your iterative process.
 
-- What significant technical challenges did you have to solve to create this work?
-- Why were these technical challenges significant?
-    - Did you encounter problems during your development process?
-    - Were your technical challenges unique and new, requiring new research?
-- How did you solve these challenges?
-    - Did you use an;
-        - Iterative design process?
-        - Scientific method?
-        - Research/hacking of others work?
-    - Are there novel solutions your found to these challenges?
-        - If so, please describe these.
-
-
 **6. Presentation and Reception**
 
-Use this section to discuss the presentation and reception of your work. This may include questions such as;
-
-- Where was it presented?
-- How was the work presented?
-- How was it received?
-- Anything else?
-
-This is a section where you are essentially presenting the results of your "experiment". This may include;
-
-- Reflexive analysis about your own findings and discoveries.
-    - Did you discover something new about this piece during the presentation and/or reception?
-    - Did you have any personal thoughts or feelings emerge during this process?
-- Did you observe any reactions from the audience?
-    - These could have been observed in real-time and documented through notes.
-    - These could have been the result of a set of questions you asked participants.
-        - Filming responses
-        - Asking participants to fill out surveys
-
-
+How was the work presented? How was it received? Where was it presented? Anything else?
 
 **7. Discussion**
 
-Please use this section to discuss the work in relation to the above sections.
-
-- Are there any general findings, discoveries, information that cam about throughout this process that is significant?
-- Discuss whether your project accomplished its goals set out by you?
-- Discuss how the project fulfilled the goals and specifications for the project established for the class?
-
-
+Please use this section to discuss the work in relation to the above sections. Are there any general findings, discoveries, information that cam about throughout this process that is significant? Discuss whether your project accomplished its goals set out by you? Discuss how the project fulfilled the goals and specifications for the project established for the class?
 
 **8. Future Work and Conclusions**
 
 In this section you should discuss what things you would do if you were to continue working on this project. You can also make suggestions for others to try or do, who may be working in a similar area, or inspired by your project.
 
-Finally, you should include any last thoughts in this sections. Wrap up your paper.
-
+Finally, you should include any last thoughts in this sections.
 
 **References**
 
 Please include any references here, formatted according to IEEE guidelines, as shown in the paper template.
-
-
 
 #### Images and Such
 
