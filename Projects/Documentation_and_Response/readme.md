@@ -76,6 +76,8 @@ Please present the project in broad strokes, as well as what will be discussed i
 
 **2. Related Work**
 
+> For project 2, you can be super-high level on this section. 
+
 This section should describe related work by other artists, scientists, or engineers. This work should be discussed in terms of;
 
 - What works are similar to your work?
@@ -99,7 +101,7 @@ You may want to answer the following types of questions:
 - What does this work do?
     - How does this work do that?
 
-> NOTE: How does this section differ from the following four sections? This is a section describing the artistic work, at a high level. Not how did you get there, but what is it. The next sections will talk about how the project got there. 
+> NOTE: How does this section differ from the following four sections? This is a section describing the artistic work, at a high level. Not how did you get there, but what is it. The next sections will talk about how the project got there.
 
 
 **4. Artistic Development**
@@ -196,6 +198,6 @@ These multiple captures of the piece, during presentation and throughout the dev
 
 # SUBMISSION
 
-To submit your write up; Please submit it to the appropriate Moodle Assignment Submission. 
+To submit your write up; Please submit it to the appropriate Moodle Assignment Submission.
 
 You should attach a PDF version of your write-up, along with a link to video hosting site (i.e. YouTube or Vimeo) or dedicated webpage with embedded video.
