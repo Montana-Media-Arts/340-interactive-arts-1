@@ -4,9 +4,9 @@ GRADE: 30% of your final grade
 
 
 
-- **Public Presentation: _Media Arts Expo; December 14th_**
-- **Critique: _Finals Time; December 15th_**
-- Sketch reviews: _Week 10; Monday, November 6th_
+- **Public Presentation: _Interactive Arts Show; December 3rd_**
+- **Critique: _December 5TH_**
+- Sketch reviews: _Week 10; Wednesday, October 31st_
 
 For the final project, the class will work in 1 or 2 collectives (depending on size) to build a large final installation project.
 
@@ -22,11 +22,11 @@ Initial project ideas and sketches will be completed individually. These will th
 
 ## Install
 
-The install of the work will occur the last week of classes, leading up to the Media Arts Expo.
+The install of the work will occur the last week of classes, leading up to the Interactive Arts Show.
 
 ## Public Presentation
 
-The work will be open to the public the entirety of Media Arts Expo Day (10am-9pm). Students will need to take a "shift" watching the work.
+The work will be open to the public the entire day of the Interactive Arts Show. Students will need to take a "shift" watching the work.
 
 ## Critique
 

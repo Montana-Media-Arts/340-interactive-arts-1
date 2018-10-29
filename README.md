@@ -138,7 +138,7 @@ _No Class on Monday, Sept. 3rd for Labor Day_
             - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
 - Show & Tell - Presentation 2; United Visual Artist & SOFTLab
 - Review Project 1, Submissions.
-    - E-mail me per ["Submission Info"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Documentation_and_Response#submission)
+    - E-mail me per ["Submission Info"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Documentation_and_Response#submission)
 - [Project 2 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_2/)
 
 **In-Class (Wednesday):**
@@ -155,9 +155,7 @@ _No Class on Monday, Sept. 3rd for Labor Day_
     - tactile transducers
     - speaker sculptures
 
-**Due:**
 
-- Project 1 Documentation
 
 **TODO:**
 
@@ -168,33 +166,35 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 ## Week 5
 
 **In-Class (Monday):**
+- Class discussion of _Cybernetics_ and _Systems Art_
+    - Please read:
+        - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
+            - Note: This should be freely downloadable while you are signed in to the library or on campus.
 
+
+**Due:**
+
+- Project 1 Documentation
+
+**In-Class (Wednesday):**
+
+
+
+- Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
 - Intro to Processing
 
 **TODO:**
 
 - [Watch "Welcome to Processing" w/ Daniel Shiffman](https://vimeo.com/140600280)
 - Download [Processing](https://processing.org)
-
-
-**In-Class (Wednesday):**
-
-- Class discussion of _Cybernetics_ and _Systems Art_
-    - Please read:
-        - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
-            - Note: This should be freely downloadable while you are signed in to the library or on campus.
-- Show & Tell - Presentation 4; Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
-- Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
-- More with Processing
+- Work on Project 2.
+- Read for Week 6
 
 **Due:**
 
 - Project 2 Sketches
 
-**TODO:**
 
-- Work on Project 2.
-- Read for Week 6
 
 
 ## Week 6
@@ -208,6 +208,7 @@ _No Class on Monday, Sept. 3rd for Labor Day_
             - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
         - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
             - [Available on Monoskop](https://monoskop.org/images/b/bb/Burnham_Jack_1969_Real_Time_Systems.pdf)
+- Show & Tell - Presentation 4; Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
 - Show & Tell - Presentation 5; Camille Utterback & Tangible Interaction (interactive installations)
 
 

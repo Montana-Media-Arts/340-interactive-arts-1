@@ -3,9 +3,9 @@
 - **GRADE:** 25% of your final grade
 
 
-- **Critique: _Week 8; Monday, October 23rd_**
-- Sketch reviews: _Week 5; Wednesday, October 4th_
-- Documentation Due: _Week 9; Monday, October 30th_
+- **Critique: _Week 8; Monday, October 15rd_**
+- Sketch reviews: _Week 5; Wednesday, September 26th_
+- Documentation Due: _Week 9; Monday, October 22nd_
 
 
 Create an interactive system that exists in a space. This system should take input from the space and produce output that is based on that input. This system should take a variety of forms of inputs and create various outputs. Think of these different inputs and outputs as _behaviors_. Your system could be living, breathing and constantly changing. The interaction must be meaningful with the content and the output should be engaging.
