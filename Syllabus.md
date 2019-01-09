@@ -165,7 +165,7 @@ Documentation assignments handed in after the due date and time will have points
 - Critique days are mandatory. No exceptions. No tardiness.
 - Contact me in advance if you will not be in class. (email is preferred)
 - Unexcused absences will affect your grade.
-- One absence is allowed; after that, your final overall grade for the course will drop by 2.5 pts out of 100 for each additional absence.
+- One absence is allowed; after that, your final overall grade for the course will drop by 2.5 percentage points out of 100 for each additional absence.
 - You are expected to work with colleagues to catch-up on what you missed.
 
 
