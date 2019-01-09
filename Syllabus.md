@@ -81,7 +81,7 @@ With that being said, it is suggested that you have taken Creative Coding 1 & 2 
 
 ## Books and Supplies
 
-There are no required texts that you must purchase for this course. All readings will be available to you through web links, the CC library access to journal databases, or the class Slack channel.
+There are no required texts that you must purchase for this course. All readings will be available to you through web links, library access to journal databases, or the class Slack channel.
 
 ### Other Supplies
 
@@ -141,16 +141,16 @@ Letters are assigned according to the following final course percentages:
 
 | Grade | % Range 	|
 |:-----:|:---------:|
-| A  	| 93-100	|
-| A- 	| 90-93		|
-| B+ 	| 87-90		|
-| B  	| 83-87		|
-| B- 	| 80-83		|
-| C+ 	| 77-80		|
-| C  	| 73-77		|
-| C- 	| 70-73		|
-| D  	| 60-70		|
-| F  	| 0-59		|
+| A  	| `[93-100]`|
+| A- 	| `[90-93)`	|
+| B+ 	| `[87-90)`	|
+| B  	| `[83-87)`	|
+| B- 	| `[80-83)`	|
+| C+ 	| `[77-80)`	|
+| C  	| `[73-77)`	|
+| C- 	| `[70-73)`	|
+| D  	| `[60-70)`	|
+| F  	| `[0-60)`	|
 
 
 #### Late Work
