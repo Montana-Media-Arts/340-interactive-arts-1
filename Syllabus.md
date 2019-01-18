@@ -36,7 +36,7 @@ This course will include a mix of reading, discussion, interactive development, 
 
 Through this course, students are expected to;
 
-- Gain a vocabulary and understanding about interactive theory
+- Illustrate an understanding about interactive art and interactive theory
 - Become versed in some of the tools and techniques available for the creation of interactive installations, including;
     - real-time digital signal processing
     - data capture, including;
@@ -44,11 +44,12 @@ Through this course, students are expected to;
         - audio signals via microphones
         - physical computing (buttons, sensors, or basic electronics)
         - computer vision (edge detection, face recognition)
-- Understand experience differences for various types of installations;
+    - immersive environment construction
+- Evaluate experience differences for various types of installations;
     - installations for one person vs. many people
     - time-dependent or input-dependent installations
-- Describe the difference between reactive, interactive, and dynamically changing systems.
-- Walk away with at least two portfolio quality works completed and presented
+- Distinguish the difference between reactive, interactive, and dynamically changing systems.
+- Produce, present, and asses at least two portfolio quality works.
 
 Students are expected to bring ideas to explore these techniques. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these technical elements to make work that is meaningful.
 
