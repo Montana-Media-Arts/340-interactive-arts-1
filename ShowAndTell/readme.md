@@ -39,15 +39,15 @@ In addition to Googling the people/projects, I encourage you to check out [Eyeoâ
 - 4	Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
 - 5	Camille Utterback & Tangible Interaction (interactive installations)
 - 6	Electroland & YesYesNo (interactive installations)
-- 7 Tristan Perich & Janet Cardiff (sound art & installation)
-- 8	Luke DuBois & Niklas Roy (systems, games, fun)
-- 9	Daily tous les Jours (Mouna Andraos) & Random International (playful)
-- 10 Design I/O & Golan Levin (playful)
-- 11 The Explorartorium & Disney Research (Design for others)
+- 7	Luke DuBois & Niklas Roy (systems, games, fun)
+- 8	Daily tous les Jours (Mouna Andraos) & Random International (playful)
+- 9 Design I/O & Golan Levin (playful)
+- 10 The Explorartorium & Disney Research (Design for others)
 
 
 #### Extra Credit or Makeup
 
+- ---.   Tristan Perich & Janet Cardiff (sound art & installation)
 - ---.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), Jim Campbell (Objects to Systems)
 - ---.	Universal Everything & Karolina Sobekecka (Flightphase (with Jeff Crouse)) & Nemore (behavior)
 - ---.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems)

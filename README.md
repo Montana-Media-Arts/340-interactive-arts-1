@@ -7,8 +7,7 @@
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
 - Office: McGill Hall, 232.
 - Office Hours:
-    - Wednesdays: 12:00pm - 1:00pm
-    - Thursdays: 11:30am - 1:30pm
+
 
 ## COURSE OVERVIEW
 
@@ -38,9 +37,9 @@ This course will include a mix of reading, discussion, interactive development, 
 - Discussion of Technologies and Tools
 - Assign ["Show & Tell"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/ShowAndTell/)
 - Extra Meetings
-    - Project 2 Showing - Monday, October 15th. 3pm-9pm
-    - Project 3 Showing - Monday, December 3rd. From 3pm-9pm
-    - Final Meeting (Monday, Dec. 10th; 1:10pm - 3:10pm)
+    - Project 2 Showing - Wednesday, October 9th. 3pm-9pm
+    - Project 3 Showing - Wednesday, December 4th. From 3pm-9pm
+    - Final Meeting (Monday, Dec. 9th; 1:10pm - 3:10pm)
 - Class discussion;
     1. What does interactive mean?
     2. What is Installation Art?
@@ -66,7 +65,7 @@ This course will include a mix of reading, discussion, interactive development, 
 
 ## Week 2
 
-_No Class on Monday, Sept. 3rd for Labor Day_
+_No Class on Monday, Sept. 2nd for Labor Day_
 
 <!--
 - Discussion, "What is an Interactive Experience"
@@ -100,24 +99,23 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 
 ## Week 3
 
-<!-- **In-Class (Monday):** -->
-
-<!-- - Lecture on General Topics and Specific Examples of Installation Art -->
-<!-- - Project 1 group check-ins and work with remaining class time. -->
-
-**Monday: Dr. Musick will be away**
-
-- Kurtis, gets to teach Isadora.
-
-- Project 1 group check-ins and work with remaining class time.
-
-**In-Class (Wednesday):**
+**In-Class (Monday):**
 
 - Project 1 presentations, walk-around, and critique
 
 **Due:**
 
 - Project 1 Installation Presentation
+
+
+**In-Class (Wednesday):**
+
+- Lecture on General Topics and Specific Examples of Installation Art.
+- Show & Tell - Presentation 2; United Visual Artist & SOFTLab
+- Review Project 1, Submissions.
+    - E-mail me per ["Submission Info"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Documentation_and_Response#submission)
+- [Project 2 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_2/)
+
 
 **TODO:**
 
@@ -129,6 +127,9 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 
 **In-Class (Monday):**
 
+- Watch Project 1 Demo Videos
+    - Discuss success, quality, & future approaches.
+    - What types of things "worked"?
 - Class discussion of _Sound Art_
     - Please read:
         - "Introduction; At, Out, About" from,
@@ -136,17 +137,14 @@ _No Class on Monday, Sept. 3rd for Labor Day_
             - Available from the class Slack channel
         - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013.
             - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
-- Show & Tell - Presentation 2; United Visual Artist & SOFTLab
-- Review Project 1, Submissions.
-    - E-mail me per ["Submission Info"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Documentation_and_Response#submission)
-- [Project 2 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_2/)
+**Due:**
+
+- Project 1 Documentation
+
 
 **In-Class (Wednesday):**
 
 - Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
-- Watch Project 1 Demo Videos
-    - Discuss success, quality, & future approaches.
-    - What types of things "worked"?
 - Lecture on General Topics and Specific Examples of Sound Art.
 - Workshop of various output transducers
     - full-range studio monitors
@@ -172,13 +170,7 @@ _No Class on Monday, Sept. 3rd for Labor Day_
             - Note: This should be freely downloadable while you are signed in to the library or on campus.
 
 
-**Due:**
-
-- Project 1 Documentation
-
 **In-Class (Wednesday):**
-
-
 
 - Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
 - Intro to Processing
@@ -226,7 +218,7 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 - Read for Week 7
 
 
-## Week 7
+## Week 7 (Crit Day & Public Showing at Night)
 
 **In-Class (Monday):**
 
@@ -238,9 +230,6 @@ _No Class on Monday, Sept. 3rd for Labor Day_
     - Start w/ chapter 16 from "Learning Processing" by Shiffman
     - [Video & openCV - Processing Tutorial Playlist - Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8)
 - Show & Tell - Presentation 6; Electroland & YesYesNo (interactive installations)
-
-**In-Class (Wednesday):**
-
 - Project 2 check-ins
 - Class discussion of "Computer Vision"
     - Please read:
@@ -254,13 +243,9 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 
 - Finish Project 2.
 
+**In-Class (Wednesday):**
 
-
-## Week 8 (Crit Day & Public Showing at Night)
-
-**In-Class (Monday):**
-
-**_Monday, October 15th_**
+**_Wednesday, October 9th_**
 
 *Class will not be held, instead we will meet in the afternoon/evening from 4-9pm.*
 
@@ -274,9 +259,19 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 - Strike will occur from 8:30pm-9pm. Please remove all materials.
 
 
-**In-Class (Wednesday):**
+
+
+
+## Week 8 
+
+**In-Class (Monday):**
 
 - Final remarks about Project 2 presentations and critique.
+
+**In-Class (Wednesday):**
+
+- [Project 3 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_3/)
+- Class brainstorming about Project 3.
 
 
 
@@ -288,8 +283,7 @@ _No Class on Monday, Sept. 3rd for Labor Day_
 - Watch Project 2 Demo Videos
     - Discussion of documentation
 - Show & Tell - Presentation 7; Tristan Perich & Janet Cardiff (sound art & installation)
-- [Project 3 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_3/)
-- Class brainstorming about Project 3.
+
 
 **TODO:**
 

@@ -24,6 +24,13 @@ Date modified: 2018-08-22
 
 # COURSE OVERVIEW
 
+- Name: Interactive Media 1; Installation & Immersive Environments
+- Course Number: MART 340
+- CRN: 73101
+- Credits: 3
+- Location: McGill 127 & Production Studio
+- Date/Time: MW, 3:00pm-4:20pm
+
 ## Description
 
 _Interactive Media 1; Installation & Immersive Environments_ explores the theory and technique of interactive art and immersive environments.
@@ -61,8 +68,7 @@ This course will conclude with an intensive collective installation project. The
 - [Dr. Michael Musick](http://michaelmusick.com)
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
 - Office: McGill Hall, 232.
-
-
+- Office Hours: Current Office Hours are posted on my teaching site and office door. 
 
 ## Course Websites
 
@@ -99,23 +105,29 @@ Additionally, you will be expected to produce projects throughout the course. Th
 Student work and progress will be assessed through;
 
 - Projects
-	- There will be three assigned installation projects throughout the block that relate to the current topics being discussed.
+	- There will be three larger assigned projects throughout the semester that relate to the current topics being discussed. These are the students opportunity to synthesis creative concerns and technical concerns from multiple weeks of content into singular sonic artworks.
+- Project Presentation
+    - At least one, but more likely two, of the projects from this semester are required to be presented publicly. These will likely occur through course organized shows.
 - Project Documentation
-	- Each project will require project documentation, including; a demo video, written technical report, and code.
-- Class participation via group problem solving, support, and forum discussions.
+	- Each project will require project documentation, including; a demo video, academic report describing aesthetic and technical success in relation to the larger field, and a written description.
+- In-class discussions and critiques
+    - You are expected to engage with class discussions about technical and artistic issues.
+    - You are expected to engage with class discussions about outside readings, videos, and listenings.
+    - You are expected to engage in class critique days of the two projects.
 
 
 #### Projects
 
-We will have three projects throughout the course that are relevant to material from recent content.
+We will have three projects throughout the course that are relevant to concepts, techniques, and creative ideas from recent content. These are the students opportunity to synthesis creative concerns and technical concerns from multiple weeks of content into singular artworks.
 
 Project grades will be based primarily on the student’s ability to:
 
-1.  Demonstrate an understanding of the specific characteristics and integrative capabilities of the assigned topic through artistic output, written documentation, and technical achievement (i.e., code).
-2.  Articulate a clear and concise perspective.
+1.  Demonstrate an understanding of the specific characteristics and integrative capabilities of the assigned topic through artistic output, written documentation, and technical achievement.
+2.  Articulate a clear and concise perspective within the artwork.
 3.  Present an organized artistic piece, as well as; technical report, file/program structure, and demo video.
-4.  Demonstrate creativity beyond the expected technical requirements.
-5.  Properly and punctually deliver all assignment files.
+4.  Demonstrate engagement with an iterative process of ideation → creation → presentation → assessment.
+5.  Demonstrate creativity beyond the expected technical requirements.
+6.  Properly and punctually deliver all assignment files.
 
 **Please Note:** All Projects are required for this course. Failure to complete and submit a project will result in a failing grade for the course. There are no exceptions to this rule. Completion of this course requires all projects be completed.
 
@@ -176,7 +188,7 @@ Students are expected to adhere to academic conduct policies of the University o
 
 Dishonesty will not be tolerated in this course. This includes, but is not limited to, cheating on tests, cheating on assignments, fabricating information or citations, having unauthorized possession of examinations, submitting work of another person or work previously used, or tampering with the academic work of other students.
 
-Plagiarism is the presentation of the work of another without acknowledgement. As defined by the [University of Montana’s Student Conduct Code](http://www.umt.edu/vpsa/policies/default.php), plagiarism is “Representing another person's words, ideas, data, or materials as one's own.”  Students may use information and ideas expressed by others, but this use must be identified by appropriate referencing.
+Plagiarism is the presentation of the work of another without acknowledgment. As defined by the [University of Montana’s Student Conduct Code](http://www.umt.edu/vpsa/policies/default.php), plagiarism is “Representing another person's words, ideas, data, or materials as one's own.”  Students may use information and ideas expressed by others, but this use must be identified by appropriate referencing.
 
 Students who cheat or plagiarize will receive academic sanctions, which may include an “F” grade on the assignment, examination, and/or in the course. Students will also be reported to the Dean of Students for possible further disciplinary action.
 
