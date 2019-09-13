@@ -127,33 +127,27 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 **In-Class (Monday):**
 
+- Class discussion of _Cybernetics_ and _Systems Art_
+    - Please read:
+        - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
+            - Note: This should be freely downloadable while you are signed in to the library or on campus.
+<!--
 - Watch Project 1 Demo Videos
     - Discuss success, quality, & future approaches.
     - What types of things "worked"?
-- Class discussion of _Sound Art_
-    - Please read:
-        - "Introduction; At, Out, About" from,
-            - Kim-Cohen, Seth. _In the Blink of an Ear: Toward a Non-Cochlear Sonic Art_. New York, New York, USA: The Continuum International Publishing Group Inc, 2009.
-            - Available from the class Slack channel
-        - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013.
-            - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
-**Due:**
+-->
 
-- Project 1 Documentation
+
 
 
 **In-Class (Wednesday):**
 
 - Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
-- Lecture on General Topics and Specific Examples of Sound Art.
-- Workshop of various output transducers
-    - full-range studio monitors
-    - PA speakers
-    - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
-    - tactile transducers
-    - speaker sculptures
 
 
+**Due:**
+
+- Project 1 Documentation
 
 **TODO:**
 
@@ -164,11 +158,20 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 ## Week 5
 
 **In-Class (Monday):**
-- Class discussion of _Cybernetics_ and _Systems Art_
+- Class discussion of _Sound Art_
     - Please read:
-        - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
-            - Note: This should be freely downloadable while you are signed in to the library or on campus.
-
+        - "Introduction; At, Out, About" from,
+            - Kim-Cohen, Seth. _In the Blink of an Ear: Toward a Non-Cochlear Sonic Art_. New York, New York, USA: The Continuum International Publishing Group Inc, 2009.
+            - Available from the class Slack channel
+        - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013.
+            - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
+- Lecture on General Topics and Specific Examples of Sound Art.
+- Workshop of various output transducers
+    - full-range studio monitors
+    - PA speakers
+    - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
+    - tactile transducers
+    - speaker sculptures
 
 **In-Class (Wednesday):**
 
