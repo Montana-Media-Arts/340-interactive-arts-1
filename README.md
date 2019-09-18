@@ -142,8 +142,7 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 **In-Class (Wednesday):**
 
-- Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
-
+- Processing Bootcamp - welcome to processing (...leaving p5.js)
 
 **Due:**
 
@@ -158,6 +157,21 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 ## Week 5
 
 **In-Class (Monday):**
+
+- Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
+- Class discussion of "Computer Vision"
+    - Please read:
+        - Levin, Golan. “Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers.” AI and Society 20.4 (2006): 462–482.
+            - Available from;
+                - [_FLONG._ as a web page](http://www.flong.com/texts/essays/essay_cvad/)
+                - or [as a PDF](./resources/articles/Levin_2006_ComputerVision.pdf)
+- Intro to Computer Vision
+    - as capable in processing, with webcam
+    - as capable w/ xbox kinnect
+
+**In-Class (Wednesday):**
+
+- Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
 - Class discussion of _Sound Art_
     - Please read:
         - "Introduction; At, Out, About" from,
@@ -172,11 +186,6 @@ _No Class on Monday, Sept. 2nd for Labor Day_
     - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
     - tactile transducers
     - speaker sculptures
-
-**In-Class (Wednesday):**
-
-- Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
-- Intro to Processing
 
 **TODO:**
 
@@ -234,12 +243,6 @@ _No Class on Monday, Sept. 2nd for Labor Day_
     - [Video & openCV - Processing Tutorial Playlist - Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8)
 - Show & Tell - Presentation 6; Electroland & YesYesNo (interactive installations)
 - Project 2 check-ins
-- Class discussion of "Computer Vision"
-    - Please read:
-        - Levin, Golan. “Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers.” AI and Society 20.4 (2006): 462–482.
-            - Available from;
-                - [_FLONG._ as a web page](http://www.flong.com/texts/essays/essay_cvad/)
-                - or [as a PDF](./resources/articles/Levin_2006_ComputerVision.pdf)
 - Cont'd exploration of Computer Vision w/ openCV
 
 **TODO:**
