@@ -194,12 +194,8 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 **In-Class (Monday):**
 
 - Project 2 check-ins
-- Class discussion of _Cybernetics_ and _Systems Art_
-    - Please read:
-        - Burnham, Jack. “Systems Esthetics.” Artforum 7.1 (1968): 30–35.
-            - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
-        - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
-            - [Available on Monoskop](https://monoskop.org/images/b/bb/Burnham_Jack_1969_Real_Time_Systems.pdf)
+- Discussion of Project Managment 
+- Con't XBOX Kinect work
 - Show & Tell - Presentation 4; Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
 - Show & Tell - Presentation 5; Camille Utterback & Tangible Interaction (interactive installations)
 
@@ -207,24 +203,18 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 **In-Class (Wednesday):**
 
 - Discussion of install and public presentation for Project 2.
-- Class discussion of _Sound Art_
+- Class discussion of _Cybernetics_ and _Systems Art_
     - Please read:
-        <!-- - "Introduction; At, Out, About" from,
-            - Kim-Cohen, Seth. _In the Blink of an Ear: Toward a Non-Cochlear Sonic Art_. New York, New York, USA: The Continuum International Publishing Group Inc, 2009. -->
-            - Available from the class Slack channel
-        - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013.
-            - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
-- Lecture on General Topics and Specific Examples of Sound Art.
-- Workshop of various output transducers
-    - full-range studio monitors
-    - PA speakers
-    - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
-    - tactile transducers
-    - speaker sculptures
+        - Burnham, Jack. “Systems Esthetics.” Artforum 7.1 (1968): 30–35.
+            - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
+        - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
+            - [Available on Monoskop](https://monoskop.org/images/b/bb/Burnham_Jack_1969_Real_Time_Systems.pdf)
+<!--
 - Lecture presenting and discussing Prof. Musick's interactive sound installations
     - *The Sonic Spaces Project*
     - *Seo[u]l Sound[e]scapes*
     - *I Hear NY3D*
+-->
 
 **TODO:**
 
@@ -280,6 +270,20 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 - [Project 3 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_3/)
 - Class brainstorming about Project 3.
+- Class discussion of _Sound Art_
+    - Please read:
+        <!-- - "Introduction; At, Out, About" from,
+            - Kim-Cohen, Seth. _In the Blink of an Ear: Toward a Non-Cochlear Sonic Art_. New York, New York, USA: The Continuum International Publishing Group Inc, 2009.
+            - Available from the class Slack channeln -->
+        - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013.
+            - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
+- Lecture on General Topics and Specific Examples of Sound Art.
+- Workshop of various output transducers
+    - full-range studio monitors
+    - PA speakers
+    - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
+    - tactile transducers
+    - speaker sculptures
 
 
 
