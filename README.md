@@ -158,7 +158,6 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 **In-Class (Monday):**
 
-- Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
 - Class discussion of "Computer Vision"
     - Please read:
         - Levin, Golan. “Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers.” AI and Society 20.4 (2006): 462–482.
@@ -171,21 +170,10 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 **In-Class (Wednesday):**
 
+- Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
 - Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
-- Class discussion of _Sound Art_
-    - Please read:
-        - "Introduction; At, Out, About" from,
-            - Kim-Cohen, Seth. _In the Blink of an Ear: Toward a Non-Cochlear Sonic Art_. New York, New York, USA: The Continuum International Publishing Group Inc, 2009.
-            - Available from the class Slack channel
-        - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013.
-            - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
-- Lecture on General Topics and Specific Examples of Sound Art.
-- Workshop of various output transducers
-    - full-range studio monitors
-    - PA speakers
-    - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
-    - tactile transducers
-    - speaker sculptures
+- Presentation of XBOX Kinect
+
 
 **TODO:**
 
@@ -219,6 +207,20 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 **In-Class (Wednesday):**
 
 - Discussion of install and public presentation for Project 2.
+- Class discussion of _Sound Art_
+    - Please read:
+        <!-- - "Introduction; At, Out, About" from,
+            - Kim-Cohen, Seth. _In the Blink of an Ear: Toward a Non-Cochlear Sonic Art_. New York, New York, USA: The Continuum International Publishing Group Inc, 2009. -->
+            - Available from the class Slack channel
+        - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013.
+            - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
+- Lecture on General Topics and Specific Examples of Sound Art.
+- Workshop of various output transducers
+    - full-range studio monitors
+    - PA speakers
+    - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
+    - tactile transducers
+    - speaker sculptures
 - Lecture presenting and discussing Prof. Musick's interactive sound installations
     - *The Sonic Spaces Project*
     - *Seo[u]l Sound[e]scapes*
