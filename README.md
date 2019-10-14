@@ -226,14 +226,9 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 **In-Class (Monday):**
 
-- Class discussion of "The Work of Art in the Age of Mechanical Reproduction"
-    - Please read:
-        - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” (1936)
-            - [Available from course resources](./resources/articles/Benjamin_1936_WorkOfArt.pdf)
 - Lecture/workshop about Computer Vision, openCV, and Processing
     - Start w/ chapter 16 from "Learning Processing" by Shiffman
     - [Video & openCV - Processing Tutorial Playlist - Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8)
-- Show & Tell - Presentation 6; Electroland & YesYesNo (interactive installations)
 - Project 2 check-ins
 - Cont'd exploration of Computer Vision w/ openCV
 
@@ -270,6 +265,19 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 - [Project 3 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_3/)
 - Class brainstorming about Project 3.
+- Class discussion of "The Work of Art in the Age of Mechanical Reproduction"
+    - Please read:
+        - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” (1936)
+            - [Available from course resources](./resources/articles/Benjamin_1936_WorkOfArt.pdf)
+
+
+
+
+## Week 9
+
+
+**In-Class (Monday):**
+
 - Class discussion of _Sound Art_
     - Please read:
         <!-- - "Introduction; At, Out, About" from,
@@ -284,16 +292,6 @@ _No Class on Monday, Sept. 2nd for Labor Day_
     - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
     - tactile transducers
     - speaker sculptures
-
-
-
-## Week 9
-
-
-**In-Class (Monday):**
-
-- Watch Project 2 Demo Videos
-    - Discussion of documentation
 - Show & Tell - Presentation 7; Tristan Perich & Janet Cardiff (sound art & installation)
 
 
@@ -303,13 +301,14 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 **Due:**
 
-- Project 2 documentation
+
 
 
 **In-Class (Wednesday):**
 
 - Class brainstorming about Project 3.
 - Lecture and Workshop on immersive displays and visuals
+- Show & Tell - Presentation 6; Electroland & YesYesNo (interactive installations)
 
 **TODO:**
 
@@ -323,12 +322,18 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 - Sketch presentations and discussions of [Project 3](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_3/)
 - Coalesce Idea for Project 3
+- Watch Project 2 Demo Videos
+    - Discussion of documentation
 - Show & Tell - Presentation 8; Luke DuBois & Niklas Roy (visuals, systems, games, fun)
 
 **TODO:**
 
 - Work on Project 3
 - Begin prototypes of individual components
+
+**Due:**
+
+- Project 2 documentation
 
 
 **In-Class (Wednesday):**
