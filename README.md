@@ -265,10 +265,6 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 - [Project 3 Launch](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_3/)
 - Class brainstorming about Project 3.
-- Class discussion of "The Work of Art in the Age of Mechanical Reproduction"
-    - Please read:
-        - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” (1936)
-            - [Available from course resources](./resources/articles/Benjamin_1936_WorkOfArt.pdf)
 
 
 
@@ -308,6 +304,11 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 - Class brainstorming about Project 3.
 - Lecture and Workshop on immersive displays and visuals
+- Class discussion of "The Work of Art in the Age of Mechanical Reproduction"
+    - Please read:
+        - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” (1936)
+            - [Available from course resources](./resources/articles/Benjamin_1936_WorkOfArt.pdf)
+
 - Show & Tell - Presentation 6; Electroland & YesYesNo (interactive installations)
 
 **TODO:**
