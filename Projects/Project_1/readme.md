@@ -5,7 +5,7 @@
 
 - **In-class critique: _Week 3; Wednesday, September 12th_**
 - Sketch reviews: _Week 2; Wednesday, September 5th_
-- Documentation due: _Week 4; Monday, September 24th_
+- Documentation due: _Week 4; Monday, September_
 
 
 

@@ -3,7 +3,7 @@
 
 ## Professor/Instructor
 
-- [Dr. Michael Musick](http://michaelmusick.com)
+- [Dr. Michael Musick](https://michaelmusick.com)
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
 - Office: McGill Hall, 232.
 - Office Hours:
@@ -262,7 +262,7 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 
 
-## Week 8 
+## Week 8
 
 **In-Class (Monday):**
 
