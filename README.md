@@ -127,33 +127,26 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 **In-Class (Monday):**
 
+- Class discussion of _Cybernetics_ and _Systems Art_
+    - Please read:
+        - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
+            - Note: This should be freely downloadable while you are signed in to the library or on campus.
+<!--
 - Watch Project 1 Demo Videos
     - Discuss success, quality, & future approaches.
     - What types of things "worked"?
-- Class discussion of _Sound Art_
-    - Please read:
-        - "Introduction; At, Out, About" from,
-            - Kim-Cohen, Seth. _In the Blink of an Ear: Toward a Non-Cochlear Sonic Art_. New York, New York, USA: The Continuum International Publishing Group Inc, 2009.
-            - Available from the class Slack channel
-        - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013.
-            - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
-**Due:**
+-->
 
-- Project 1 Documentation
+
 
 
 **In-Class (Wednesday):**
 
-- Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
-- Lecture on General Topics and Specific Examples of Sound Art.
-- Workshop of various output transducers
-    - full-range studio monitors
-    - PA speakers
-    - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
-    - tactile transducers
-    - speaker sculptures
+- Processing Bootcamp - welcome to processing (...leaving p5.js)
 
+**Due:**
 
+- Project 1 Documentation
 
 **TODO:**
 
@@ -164,16 +157,23 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 ## Week 5
 
 **In-Class (Monday):**
-- Class discussion of _Cybernetics_ and _Systems Art_
-    - Please read:
-        - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
-            - Note: This should be freely downloadable while you are signed in to the library or on campus.
 
+- Class discussion of "Computer Vision"
+    - Please read:
+        - Levin, Golan. “Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers.” AI and Society 20.4 (2006): 462–482.
+            - Available from;
+                - [_FLONG._ as a web page](http://www.flong.com/texts/essays/essay_cvad/)
+                - or [as a PDF](./resources/articles/Levin_2006_ComputerVision.pdf)
+- Intro to Computer Vision
+    - as capable in processing, with webcam
+    - as capable w/ xbox kinnect
 
 **In-Class (Wednesday):**
 
+- Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
 - Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
-- Intro to Processing
+- Presentation of XBOX Kinect
+
 
 **TODO:**
 
@@ -194,12 +194,8 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 **In-Class (Monday):**
 
 - Project 2 check-ins
-- Class discussion of _Cybernetics_ and _Systems Art_
-    - Please read:
-        - Burnham, Jack. “Systems Esthetics.” Artforum 7.1 (1968): 30–35.
-            - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
-        - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
-            - [Available on Monoskop](https://monoskop.org/images/b/bb/Burnham_Jack_1969_Real_Time_Systems.pdf)
+- Discussion of Project Managment 
+- Con't XBOX Kinect work
 - Show & Tell - Presentation 4; Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
 - Show & Tell - Presentation 5; Camille Utterback & Tangible Interaction (interactive installations)
 
@@ -207,10 +203,18 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 **In-Class (Wednesday):**
 
 - Discussion of install and public presentation for Project 2.
+- Class discussion of _Cybernetics_ and _Systems Art_
+    - Please read:
+        - Burnham, Jack. “Systems Esthetics.” Artforum 7.1 (1968): 30–35.
+            - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
+        - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
+            - [Available on Monoskop](https://monoskop.org/images/b/bb/Burnham_Jack_1969_Real_Time_Systems.pdf)
+<!--
 - Lecture presenting and discussing Prof. Musick's interactive sound installations
     - *The Sonic Spaces Project*
     - *Seo[u]l Sound[e]scapes*
     - *I Hear NY3D*
+-->
 
 **TODO:**
 
@@ -222,21 +226,10 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 **In-Class (Monday):**
 
-- Class discussion of "The Work of Art in the Age of Mechanical Reproduction"
-    - Please read:
-        - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” (1936)
-            - [Available from course resources](./resources/articles/Benjamin_1936_WorkOfArt.pdf)
 - Lecture/workshop about Computer Vision, openCV, and Processing
     - Start w/ chapter 16 from "Learning Processing" by Shiffman
     - [Video & openCV - Processing Tutorial Playlist - Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8)
-- Show & Tell - Presentation 6; Electroland & YesYesNo (interactive installations)
 - Project 2 check-ins
-- Class discussion of "Computer Vision"
-    - Please read:
-        - Levin, Golan. “Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers.” AI and Society 20.4 (2006): 462–482.
-            - Available from;
-                - [_FLONG._ as a web page](http://www.flong.com/texts/essays/essay_cvad/)
-                - or [as a PDF](./resources/articles/Levin_2006_ComputerVision.pdf)
 - Cont'd exploration of Computer Vision w/ openCV
 
 **TODO:**
@@ -275,13 +268,26 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 
 
+
 ## Week 9
 
 
 **In-Class (Monday):**
 
-- Watch Project 2 Demo Videos
-    - Discussion of documentation
+- Class discussion of _Sound Art_
+    - Please read:
+        <!-- - "Introduction; At, Out, About" from,
+            - Kim-Cohen, Seth. _In the Blink of an Ear: Toward a Non-Cochlear Sonic Art_. New York, New York, USA: The Continuum International Publishing Group Inc, 2009.
+            - Available from the class Slack channeln -->
+        - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013.
+            - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
+- Lecture on General Topics and Specific Examples of Sound Art.
+- Workshop of various output transducers
+    - full-range studio monitors
+    - PA speakers
+    - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
+    - tactile transducers
+    - speaker sculptures
 - Show & Tell - Presentation 7; Tristan Perich & Janet Cardiff (sound art & installation)
 
 
@@ -291,13 +297,19 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 **Due:**
 
-- Project 2 documentation
+
 
 
 **In-Class (Wednesday):**
 
 - Class brainstorming about Project 3.
 - Lecture and Workshop on immersive displays and visuals
+- Class discussion of "The Work of Art in the Age of Mechanical Reproduction"
+    - Please read:
+        - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” (1936)
+            - [Available from course resources](./resources/articles/Benjamin_1936_WorkOfArt.pdf)
+
+- Show & Tell - Presentation 6; Electroland & YesYesNo (interactive installations)
 
 **TODO:**
 
@@ -311,12 +323,18 @@ _No Class on Monday, Sept. 2nd for Labor Day_
 
 - Sketch presentations and discussions of [Project 3](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Project_3/)
 - Coalesce Idea for Project 3
+- Watch Project 2 Demo Videos
+    - Discussion of documentation
 - Show & Tell - Presentation 8; Luke DuBois & Niklas Roy (visuals, systems, games, fun)
 
 **TODO:**
 
 - Work on Project 3
 - Begin prototypes of individual components
+
+**Due:**
+
+- Project 2 documentation
 
 
 **In-Class (Wednesday):**

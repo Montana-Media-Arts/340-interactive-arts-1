@@ -44,13 +44,15 @@ For collaborative projects, you should identify, at the start of the project, ho
 One of the required outputs for each project will be a Reflection and Technical Report Paper.
 
 <!-- This paper should be written utilizing the provided course paper template, available from this directory. -->
-For the time being, you may write this paper in any format you desire. Please maintain consistency and make it look nice.
+For the time being, you may write this paper in any format you desire. Please maintain consistency and make it look nice. However, I would suggest you follow [IEEE](https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html) or [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_style_introduction.html) style.
 
 You are also welcome to use either IEEE or MLA style citations in your paper. Please choose one or the other.
 
 If you would like to use a template, you are welcome to use the template in this git repository.
 
 - [Direct download for "Musick_Paper_Template.doc"](https://github.com/Montana-Media-Arts/340-interactive-arts-1/tree/master/Projects/Documentation_and_Response/Musick_Paper_Template.doc)
+
+If you feel uncomfortable with writing, need help, or just want to be the best you can be, I would suggest you make an appointment with the [writing center on campus](https://www.umt.edu/writingcenter/) and utilize their services!
 
 <br>
 

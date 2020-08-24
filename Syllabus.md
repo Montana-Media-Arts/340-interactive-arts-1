@@ -56,6 +56,8 @@ Through this course, students are expected to;
     - installations for one person vs. many people
     - time-dependent or input-dependent installations
 - Distinguish the difference between reactive, interactive, and dynamically changing systems.
+- Implement Project Management approaches towards the development of the installations.
+- Develop strategies for real-time problem solving of technical issues during installation builds and presentations. 
 - Produce, present, and asses at least two portfolio quality works.
 
 Students are expected to bring ideas to explore these techniques. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these technical elements to make work that is meaningful.
